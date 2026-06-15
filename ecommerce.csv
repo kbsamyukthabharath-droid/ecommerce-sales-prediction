@@ -1,0 +1,1021 @@
+Order_ID,Customer_ID,Customer_Name,Product_Category,Product_Name,Quantity,Unit_Price,Total_Sales,Region,Payment_Method,Order_Date,Delivery_Days,Customer_Rating
+ORD10000,CUST1003,Alexis Smith,Electronics,Smartphone,4,145.59,582.36,West,Net Banking,16-06-2024,2,3
+ORD10001,CUST1560,Rachel Gomez,Books,Magazine,9,833.69,7503.21,South,Credit Card,12-10-2024,10,2
+ORD10002,CUST1445,Amanda Larson,Books,Textbook,7,427.4,2991.8,North,Cash on Delivery,21-10-2024,10,5
+ORD10003,CUST1723,Becky Williams,Books,Magazine,3,1063.81,3191.43,West,UPI,21-12-2025,8,5
+ORD10004,CUST1210,Claire Cox,Clothing,Shoes,4,718.96,2875.84,West,UPI,05-01-2025,10,3
+ORD10005,CUST1159,Cameron Brown,Sports,Dumbbells,2,13.18,26.36,North,UPI,17-02-2026,8,4
+ORD10006,CUST1943,Ashley Lawson,Books,Novel,10,1290.71,12907.1,West,UPI,18-12-2024,7,1
+ORD10007,CUST1582,Michelle Murray,Clothing,T-Shirt,1,503.67,503.67,North,Debit Card,30-01-2025,1,3
+ORD10008,CUST1408,Michelle Carrillo,Sports,Football,3,105.42,316.26,East,Cash on Delivery,19-11-2025,11,4
+ORD10009,CUST1731,Kevin Castillo,Clothing,Jeans,5,540.44,2702.2,South,Credit Card,26-07-2025,12,1
+ORD10010,CUST1505,Dr. Brian Mcgee,Books,Magazine,1,73.78,73.78,East,UPI,13-12-2025,8,3
+ORD10011,CUST1007,James Walker,Books,Textbook,10,1253.64,12536.4,North,Credit Card,02-06-2025,13,1
+ORD10012,CUST1346,Dr. Ryan Hall,Sports,Football,9,580.73,5226.57,West,Cash on Delivery,21-02-2026,12,3
+ORD10013,CUST1529,Christopher Reed,Books,Textbook,8,250.05,2000.4,North,Credit Card,23-04-2025,8,5
+ORD10014,CUST1224,Bradley Wright,Electronics,Laptop,2,1260.7,2521.4,West,Credit Card,05-08-2024,7,2
+ORD10015,CUST1792,Renee Short,Books,Magazine,9,889.96,8009.64,East,UPI,04-09-2024,11,3
+ORD10016,CUST1758,Victoria Yates,Electronics,Headphones,5,695.57,3477.85,North,Cash on Delivery,10-05-2026,4,5
+ORD10017,CUST1274,Michael Bryant MD,Books,Novel,9,840.93,7568.37,East,Net Banking,05-10-2025,12,5
+ORD10018,CUST1396,Jennifer Holder,Clothing,Jeans,8,721.26,5770.08,South,Credit Card,19-05-2025,11,4
+ORD10019,CUST1214,Vickie Navarro,Home,Mixer,8,673,5384,West,Debit Card,24-09-2024,14,3
+ORD10020,CUST1982,Kim Coleman,Clothing,T-Shirt,5,642.26,3211.3,West,Net Banking,08-12-2024,2,4
+ORD10021,CUST1617,Alexander Gibson,Electronics,Headphones,7,1143.92,8007.44,East,Net Banking,03-11-2025,10,3
+ORD10022,CUST1003,Harry Munoz,Books,Textbook,3,444.7,1334.1,South,Cash on Delivery,12-01-2026,6,4
+ORD10023,CUST1459,Cynthia Cunningham DVM,Clothing,T-Shirt,10,1378,13780,West,Debit Card,21-01-2025,11,2
+ORD10024,CUST1131,Shawna Washington,Home,Lamp,9,34.75,312.75,North,Credit Card,16-02-2025,2,1
+ORD10025,CUST1946,Linda Whitaker,Electronics,Laptop,5,1262.15,6310.75,West,Credit Card,17-07-2024,13,2
+ORD10026,CUST1918,Andrew Perez,Books,Magazine,1,724.68,724.68,South,UPI,03-02-2025,3,3
+ORD10027,CUST1558,James Mclean,Books,Magazine,2,194.28,388.56,East,Credit Card,14-06-2024,1,1
+ORD10028,CUST1453,Sarah Ramirez,Home,Lamp,2,1353.81,2707.62,,,28-01-2025,8,
+ORD10029,CUST1224,Shirley Powell,Electronics,Headphones,7,280.18,1961.26,West,Credit Card,04-06-2024,3,1
+ORD10030,CUST1026,Linda Ramos,Home,Mixer,7,962.38,6736.66,East,Net Banking,07-02-2025,10,3
+ORD10031,CUST1058,Pamela Webb,Sports,Cricket Bat,6,1276.05,7656.3,North,Credit Card,05-09-2024,3,4
+ORD10032,CUST1598,Jennifer Beasley,Home,Lamp,4,606.71,2426.84,East,Credit Card,22-12-2025,11,4
+ORD10033,CUST1786,Zachary Hansen,Sports,Football,2,991.2,1982.4,South,Debit Card,01-09-2025,7,2
+ORD10034,CUST1876,Paul Burton,Home,Mixer,5,55.75,278.75,West,Cash on Delivery,09-02-2026,12,4
+ORD10035,CUST1303,Kenneth Hinton,Clothing,T-Shirt,6,739.27,4435.62,West,Cash on Delivery,15-05-2026,9,2
+ORD10036,CUST1466,Barbara Myers,Clothing,Jacket,10,320.79,3207.9,North,Debit Card,25-08-2024,3,3
+ORD10037,CUST1660,Calvin King,Home,Chair,2,1044.81,2089.62,East,Net Banking,30-08-2025,8,5
+ORD10038,CUST1458,Crystal Bowen,Books,Comics,7,179.87,1259.09,South,Credit Card,06-12-2025,7,3
+ORD10039,CUST1457,Adam Stewart,Clothing,T-Shirt,8,742.03,5936.24,North,Net Banking,09-09-2025,14,2
+ORD10040,CUST1036,Jennifer Richmond,Clothing,Jeans,3,1136,3408,North,Cash on Delivery,16-11-2024,7,2
+ORD10041,CUST1349,Terry Haynes,Sports,Football,1,872.36,872.36,,UPI,22-11-2024,14,5
+ORD10042,CUST1935,Carolyn Sims,Books,Comics,10,336.2,3362,West,,15-02-2026,7,3
+ORD10043,CUST1828,Jeremy Miller,Home,Chair,8,339.89,2719.12,South,UPI,28-03-2025,8,5
+ORD10044,CUST1657,Victoria Young,Clothing,Jeans,2,1468.35,2936.7,North,Debit Card,28-10-2024,2,2
+ORD10045,CUST1926,Samuel Farley,Sports,Yoga Mat,4,320.92,1283.68,East,Debit Card,06-06-2024,8,4
+ORD10046,CUST1886,Amber Wilson,Sports,Cricket Bat,3,1341.64,4024.92,South,Cash on Delivery,14-03-2025,6,1
+ORD10047,CUST1443,Thomas Campbell DVM,Books,Magazine,6,581.85,3491.1,West,Cash on Delivery,27-12-2024,12,1
+ORD10048,CUST1178,Amy Brown,Clothing,Jeans,2,379.47,758.94,South,Net Banking,08-05-2026,10,3
+ORD10049,CUST1714,Jennifer Galloway,Clothing,T-Shirt,9,1083.73,9753.57,East,Cash on Delivery,04-09-2025,12,4
+ORD10050,CUST1966,Matthew Love,Books,Textbook,7,1030.93,7216.51,South,Cash on Delivery,06-05-2025,14,1
+ORD10051,CUST1397,John Phillips,Books,Magazine,1,955.71,955.71,West,UPI,28-02-2025,10,
+ORD10052,CUST1042,Shannon Hall,Sports,Dumbbells,9,796.06,7164.54,North,Cash on Delivery,11-12-2024,12,2
+ORD10053,CUST1620,Kathy Collins,Clothing,T-Shirt,4,277.89,1111.56,North,Debit Card,03-07-2025,12,5
+ORD10054,CUST1448,Nicole Gilmore,Books,Comics,3,861.31,2583.93,North,Net Banking,10-10-2024,12,1
+ORD10055,CUST1760,Alexander Valentine,Electronics,Smart Watch,7,218.1,1526.7,North,UPI,14-09-2024,8,5
+ORD10056,CUST1687,Julia Brooks,Books,Novel,2,754.8,1509.6,East,Net Banking,02-10-2025,5,1
+ORD10057,CUST1716,John Mcfarland,Books,Comics,9,1150.82,10357.38,North,Credit Card,13-10-2025,10,1
+ORD10058,CUST1313,Dennis Tyler,Electronics,Smart Watch,7,342.35,2396.45,,Net Banking,03-03-2026,8,1
+ORD10059,CUST1165,Michael Daniel,Home,Chair,4,583.64,2334.56,West,UPI,02-12-2024,6,1
+ORD10060,CUST1361,Nathan Ruiz,Books,Textbook,1,112.49,112.49,North,Debit Card,10-08-2024,14,5
+ORD10061,CUST1915,Mike Mason,Home,Chair,10,755.7,7557,East,Credit Card,30-07-2024,3,5
+ORD10062,CUST1753,John Neal MD,Books,Comics,6,38.52,231.12,South,Cash on Delivery,10-07-2025,3,5
+ORD10063,CUST1888,Rachel Jones,Home,Mixer,10,44.03,440.3,North,Net Banking,09-01-2025,6,3
+ORD10064,CUST1567,Kimberly Richardson,Home,Mixer,9,389.66,3506.94,West,UPI,26-09-2024,7,1
+ORD10065,CUST1022,Crystal Flowers,Clothing,Shoes,9,821.41,7392.69,North,UPI,05-12-2024,5,4
+ORD10066,CUST1660,Andrew Kelley,Books,Comics,3,957.1,2871.3,North,Debit Card,15-10-2024,2,4
+ORD10067,CUST1132,Hannah Jarvis,Books,Textbook,5,671.55,3357.75,South,Cash on Delivery,26-01-2025,9,
+ORD10068,CUST1352,Ralph Guzman,Electronics,Smart Watch,2,933.97,1867.94,East,Credit Card,16-11-2024,10,4
+ORD10069,CUST1352,Nicole Gray,Books,Magazine,9,174.83,1573.47,East,Credit Card,01-07-2024,14,3
+ORD10070,CUST1209,Ashley Jackson,Electronics,Smartphone,7,293.21,2052.47,North,Debit Card,25-11-2024,10,5
+ORD10071,CUST1985,Scott Ramos,Clothing,Jacket,1,316.81,316.81,East,Cash on Delivery,12-08-2024,8,1
+ORD10072,CUST1023,Toni Gilbert,Home,Mixer,5,1363.5,6817.5,South,Net Banking,21-12-2024,4,1
+ORD10073,CUST1996,Allen Buchanan,Books,Textbook,9,949.46,8545.14,South,Credit Card,22-04-2025,1,4
+ORD10074,CUST1945,Sally Smith,Clothing,T-Shirt,1,415,415,West,Cash on Delivery,24-10-2024,12,3
+ORD10075,CUST1139,Amanda Gilbert,Sports,Football,2,342.72,685.44,East,Credit Card,06-09-2024,11,1
+ORD10076,CUST1629,Kevin Church,Clothing,Shoes,9,1493.03,13437.27,West,Cash on Delivery,20-08-2024,1,2
+ORD10077,CUST1641,Christina Robinson,Sports,Cricket Bat,2,855.8,1711.6,North,Credit Card,14-08-2025,6,1
+ORD10078,CUST1899,Sara Goodman,Books,Novel,3,1097.51,3292.53,West,Net Banking,19-04-2026,8,2
+ORD10079,CUST1824,Michael Cooke,Electronics,Smart Watch,7,674.47,4721.29,,Cash on Delivery,17-09-2025,12,2
+ORD10080,CUST1426,Jonathan Baker,Electronics,Headphones,3,1099.95,3299.85,South,Debit Card,04-07-2025,12,5
+ORD10081,CUST1585,Christopher Boyd,Home,Vacuum Cleaner,1,1460.87,1460.87,West,UPI,22-10-2025,9,3
+ORD10082,CUST1108,Douglas Clark,Books,Magazine,2,541.85,120000,South,Credit Card,17-12-2025,9,
+ORD10083,CUST1544,Brandon Lawson,Clothing,Jacket,8,1337.49,10699.92,East,Net Banking,13-11-2025,11,3
+ORD10084,CUST1459,Ricky Evans,Books,Novel,5,899.92,4499.6,North,Debit Card,03-06-2024,2,5
+ORD10085,CUST1905,Frederick Allen,Books,Textbook,3,1135.15,3405.45,South,Net Banking,14-01-2025,4,5
+ORD10086,CUST1570,Amy Lawson,Sports,Football,6,1036.33,6217.98,East,Debit Card,27-02-2025,11,1
+ORD10087,CUST1961,Aaron Parker,Books,Textbook,10,801.68,8016.8,North,Net Banking,13-03-2025,6,3
+ORD10088,CUST1370,Christopher Thompson,Sports,Dumbbells,4,397.84,1591.36,East,Credit Card,16-05-2026,12,1
+ORD10089,CUST1459,Laura Jones,Home,Lamp,7,115.77,810.39,North,Net Banking,10-02-2026,11,4
+ORD10090,CUST1511,Karen Woods,Sports,Cricket Bat,10,631.5,6315,West,Credit Card,16-08-2024,3,3
+ORD10091,CUST1571,Kristin Henderson,Books,Novel,6,905.57,5433.42,East,Debit Card,16-03-2026,5,3
+ORD10092,CUST1140,Kimberly Barnes,electronics,T-Shirt,9,198.66,1787.94,East,Cash on Delivery,04-03-2026,8,3
+ORD10093,CUST1927,Jennifer Hall,Electronics,Laptop,2,996.71,1993.42,North,Debit Card,10-01-2026,5,
+ORD10094,CUST1782,William James MD,Clothing,Jeans,2,1232.37,2464.74,West,UPI,12-01-2025,7,5
+ORD10095,CUST1711,Dominique Bennett,Books,Textbook,4,499,1996,North,Cash on Delivery,13-09-2024,11,5
+ORD10096,CUST1584,Barry Butler,Sports,Yoga Mat,4,1159.77,4639.08,East,Net Banking,21-01-2025,4,1
+ORD10097,CUST1994,Chad Jackson,Electronics,Headphones,1,1377.23,1377.23,West,Net Banking,06-11-2025,11,
+ORD10098,CUST1944,Evelyn Palmer,Books,Textbook,4,1110.9,4443.6,North,UPI,25-07-2025,5,4
+ORD10099,CUST1351,Kenneth Patton,Electronics,Laptop,9,1454.23,13088.07,South,UPI,03-03-2025,1,2
+ORD10100,CUST1329,Jenna Lane,Books,Magazine,2,753.69,1507.38,North,UPI,27-05-2026,2,1
+ORD10101,CUST1400,Alicia Evans,Books,Magazine,4,1385.51,5542.04,East,UPI,07-11-2024,11,3
+ORD10102,CUST1134,Alicia Edwards,Clothing,T-Shirt,6,856.13,5136.78,North,,19-12-2025,2,4
+ORD10103,CUST1871,Evan Martinez MD,Sports,Yoga Mat,5,351.1,1755.5,,Net Banking,20-05-2025,7,2
+ORD10104,CUST1944,Daniel Ortega,Sports,Cricket Bat,10,1251.45,12514.5,West,Net Banking,28-02-2026,13,5
+ORD10105,CUST1419,Ryan Waller,Electronics,Smart Watch,10,686.02,6860.2,North,Credit Card,06-08-2024,11,1
+ORD10106,CUST1042,Alexis Davis,Electronics,Headphones,8,1340.35,10722.8,West,Net Banking,08-08-2025,6,4
+ORD10107,CUST1287,Karen Johnson,Electronics,Laptop,5,12.77,63.85,South,Cash on Delivery,13-12-2025,10,
+ORD10108,CUST1153,Jacob Mccarthy,Home,Lamp,6,180.76,1084.56,East,Credit Card,18-06-2024,5,4
+ORD10109,CUST1352,Karen Palmer,Home,Lamp,4,1062.1,4248.4,South,Debit Card,08-12-2024,13,4
+ORD10110,CUST1759,Sarah Cummings,Books,Comics,8,851.59,6812.72,West,Net Banking,02-10-2025,8,2
+ORD10111,CUST1082,Christian Johnson,Electronics,Laptop,8,1222.18,9777.44,,UPI,28-12-2024,2,5
+ORD10112,CUST1715,Matthew Williams,Clothing,Jeans,3,392.22,1176.66,South,Credit Card,29-05-2025,12,4
+ORD10113,CUST1041,Laura Lee MD,Home,Mixer,3,578.02,1734.06,South,Debit Card,30-06-2025,9,3
+ORD10114,CUST1582,James Nichols,Sports,Cricket Bat,6,509.91,3059.46,North,Net Banking,26-11-2024,6,3
+ORD10115,CUST1421,Michael Murphy,Sports,Cricket Bat,5,781.21,3906.05,North,Debit Card,15-05-2025,9,4
+ORD10116,CUST1815,Justin Howell,Books,Magazine,4,1396,5584,East,Credit Card,13-12-2024,8,1
+ORD10117,CUST1529,Bobby Cruz,Home,Chair,1,1047.51,1047.51,West,Net Banking,12-08-2025,9,3
+ORD10118,CUST1990,Joseph Johnson,Sports,Dumbbells,6,51.12,306.72,East,Debit Card,02-12-2025,14,2
+ORD10119,CUST1616,Kayla Anthony,Sports,Yoga Mat,9,515.75,4641.75,South,Credit Card,03-06-2026,14,3
+ORD10120,CUST1601,Matthew Russell,Sports,Yoga Mat,4,31.76,127.04,North,UPI,13-12-2024,10,5
+ORD10121,CUST1313,James Floyd,Home,Chair,2,91.75,183.5,East,Debit Card,03-07-2025,6,2
+ORD10122,CUST1447,Mark Harris,Electronics,Laptop,3,1482.62,4447.86,North,Net Banking,06-10-2025,9,5
+ORD10123,CUST1714,Tracy Robbins,Home,Chair,8,1137.76,9102.08,North,Cash on Delivery,03-05-2026,14,1
+ORD10124,CUST1681,Kathleen Estrada,Home,Lamp,9,271.16,2440.44,,Debit Card,22-01-2025,2,4
+ORD10125,CUST1883,James Smith,Sports,Football,8,928.62,7428.96,West,Debit Card,05-10-2025,3,3
+ORD10126,CUST1861,Albert Santos,Clothing,Shoes,7,534.86,3744.02,North,Cash on Delivery,28-10-2024,12,1
+ORD10127,CUST1495,Steven Novak,Clothing,Jacket,7,677.86,4745.02,East,Cash on Delivery,08-09-2024,14,3
+ORD10128,CUST1615,Anna Thompson,Books,Comics,8,1422.81,11382.48,South,Debit Card,04-06-2024,9,4
+ORD10129,CUST1310,Jody Mcbride,Sports,Dumbbells,8,1429.38,11435.04,North,,21-07-2025,2,2
+ORD10130,CUST1300,Daniel Bradford,Clothing,Shoes,3,960.98,2882.94,South,UPI,16-07-2025,12,1
+ORD10131,CUST1016,Donna West,Sports,Cricket Bat,4,74.6,298.4,South,Credit Card,01-09-2025,10,3
+ORD10132,CUST1290,Cheryl Johnson,Home,Lamp,7,69.63,487.41,East,Debit Card,30-12-2025,5,4
+ORD10133,CUST1752,Martha Love,Electronics,Laptop,9,241.19,2170.71,South,UPI,13-06-2024,5,3
+ORD10134,CUST1759,Robert Bartlett,Home,Chair,10,674.32,6743.2,West,UPI,13-01-2026,2,1
+ORD10135,CUST1191,Keith Garcia,Electronics,Smartphone,9,479.05,4311.45,South,UPI,26-06-2024,11,5
+ORD10136,CUST1599,Margaret Conner,Electronics,Smartphone,2,439.42,878.84,North,Cash on Delivery,23-06-2025,2,1
+ORD10137,CUST1742,Samuel Brown,Home,Mixer,3,1355.67,4067.01,South,Net Banking,19-03-2026,12,4
+ORD10138,CUST1658,Stephen Walker,Electronics,Smart Watch,5,659.75,3298.75,East,UPI,16-02-2025,8,3
+ORD10139,CUST1253,Jessica Henry,Sports,Football,7,12.55,87.85,West,Credit Card,26-02-2025,8,5
+ORD10140,CUST1298,Leslie Adams,Home,Mixer,6,698.66,4191.96,West,UPI,15-06-2025,4,1
+ORD10141,CUST1869,Donald Miller,Sports,Cricket Bat,9,267.23,2405.07,East,UPI,28-07-2024,4,4
+ORD10142,CUST1348,Patty Greene,Sports,Football,6,682.43,4094.58,East,Net Banking,29-10-2024,14,1
+ORD10143,CUST1000,Yvette Boyd,Sports,Yoga Mat,8,934.89,7479.12,North,Net Banking,27-03-2026,11,2
+ORD10144,CUST1546,Meredith Edwards,Books,Textbook,5,187.83,939.15,West,Debit Card,14-12-2025,5,1
+ORD10145,CUST1778,David Sweeney DDS,Clothing,Jacket,1,1206.13,1206.13,South,Net Banking,31-10-2025,14,1
+ORD10146,CUST1459,John Watkins,Home,Chair,9,79.85,718.65,South,Debit Card,25-10-2024,12,3
+ORD10147,CUST1932,Aaron Shaw,Sports,Football,8,1442.13,11537.04,West,UPI,17-05-2025,4,1
+ORD10148,CUST1358,Brian Mendoza,Sports,Dumbbells,10,291.6,2916,South,Cash on Delivery,12-12-2025,2,1
+ORD10149,CUST1530,Timothy Ramirez,Home,Chair,4,405.87,1623.48,West,Debit Card,13-04-2025,8,4
+ORD10150,CUST1258,Tiffany Wong,Clothing,Jacket,6,1440.95,8645.7,East,UPI,23-10-2024,5,1
+ORD10151,CUST1893,Sarah Campbell,Sports,Football,10,895.13,8951.3,North,Credit Card,16-01-2025,1,2
+ORD10152,CUST1886,Sherry Wilcox,Books,Magazine,7,915.49,6408.43,South,Cash on Delivery,12-11-2024,13,2
+ORD10153,CUST1290,Laura Garcia,Electronics,Headphones,4,976.99,3907.96,East,Debit Card,16-03-2026,11,3
+ORD10154,CUST1444,Steven Pierce,Books,Textbook,8,1242.18,9937.44,North,Credit Card,22-04-2025,12,5
+ORD10155,CUST1034,Melanie Joseph,Electronics,Laptop,3,1077.79,3233.37,North,Cash on Delivery,08-12-2025,4,3
+ORD10156,CUST1844,Nathan Rodriguez,Electronics,Smartphone,10,259.8,2598,North,Cash on Delivery,10-08-2024,6,4
+ORD10157,CUST1443,Amanda Gates,Books,Textbook,8,612.97,4903.76,South,UPI,06-03-2026,1,4
+ORD10158,CUST1170,Jeanette Brown,Home,Vacuum Cleaner,6,1414.93,8489.58,North,Cash on Delivery,10-04-2025,8,5
+ORD10159,CUST1240,Brian Morton,Sports,Cricket Bat,6,939.31,5635.86,South,Net Banking,23-01-2025,12,5
+ORD10160,CUST1815,Tara Bradley,Electronics,Headphones,6,595.99,3575.94,North,Debit Card,14-06-2024,2,1
+ORD10161,CUST1303,Jeffrey Hicks,Clothing,T-Shirt,6,720.47,4322.82,South,UPI,19-03-2025,10,5
+ORD10162,CUST1711,Todd Vega,Electronics,Headphones,6,1016.85,6101.1,North,Debit Card,04-03-2025,5,3
+ORD10163,CUST1214,Mackenzie Chavez,Home,Mixer,3,404.84,1214.52,East,UPI,24-03-2025,6,1
+ORD10164,CUST1868,Brian Anderson,Home,Lamp,3,160.92,482.76,West,Cash on Delivery,18-12-2024,3,1
+ORD10165,CUST1152,James Stout,electronics,Jeans,1,966.27,966.27,South,Credit Card,28-12-2024,14,5
+ORD10166,CUST1652,Matthew Simmons,Books,Novel,8,350.67,2805.36,North,UPI,18-11-2024,13,4
+ORD10167,CUST1950,Valerie Brewer,Home,Mixer,4,713.62,2854.48,North,Cash on Delivery,03-02-2026,1,1
+ORD10168,CUST1799,Tracy Evans,Electronics,Headphones,5,273.61,1368.05,North,Cash on Delivery,27-04-2026,12,2
+ORD10169,CUST1526,Melissa Hammond,Books,Novel,7,1161.17,8128.19,West,Cash on Delivery,25-03-2026,7,3
+ORD10170,CUST1730,Jenna Burton,Home,Chair,2,176.25,352.5,North,UPI,26-07-2025,7,4
+ORD10171,CUST1891,Laurie Zimmerman,Clothing,T-Shirt,10,225.08,2250.8,South,Cash on Delivery,18-04-2026,2,3
+ORD10172,CUST1162,Andrea Lin,Sports,Football,7,784.83,5493.81,East,UPI,17-09-2024,13,5
+ORD10173,CUST1660,Jeffrey Mcbride,Home,Mixer,6,230.63,1383.78,North,Net Banking,14-01-2026,7,1
+ORD10174,CUST1722,Anita Copeland,Home,Mixer,3,114.49,343.47,East,Credit Card,27-06-2024,8,2
+ORD10175,CUST1703,Christina Curtis,Clothing,Jacket,7,1122.88,7860.16,North,UPI,10-05-2025,5,3
+ORD10176,CUST1435,Edward Chambers,Books,Novel,4,551.15,2204.6,East,Cash on Delivery,23-10-2025,11,5
+ORD10177,CUST1940,Alice Castillo,Electronics,Smartphone,2,1382.68,2765.36,East,Net Banking,04-10-2025,8,2
+ORD10178,CUST1985,Kelly Porter,Books,Magazine,10,911,9110,North,Cash on Delivery,30-05-2026,1,3
+ORD10179,CUST1367,Mary Williams,Electronics,Headphones,7,472.06,3304.42,North,Credit Card,23-08-2025,11,3
+ORD10180,CUST1829,Joshua Stewart,Clothing,Jacket,7,339.41,2375.87,South,Credit Card,17-07-2024,8,3
+ORD10181,CUST1431,Savannah Nicholson,Electronics,Laptop,2,866.21,1732.42,South,Debit Card,17-02-2025,9,4
+ORD10182,CUST1615,Jonathon Gutierrez,Books,Textbook,1,112.17,112.17,North,UPI,05-06-2024,4,3
+ORD10183,CUST1841,Sheena Smith,Clothing,Jeans,5,504.31,2521.55,South,Net Banking,09-07-2025,5,2
+ORD10184,CUST1313,Erin Fitzgerald,Sports,Cricket Bat,2,1409.38,2818.76,South,Credit Card,22-09-2025,5,1
+ORD10185,CUST1903,Jason Davis,Sports,Football,7,903.36,6323.52,South,,06-09-2025,2,4
+ORD10186,CUST1639,Lauren Baker,Home,Mixer,4,685.88,2743.52,East,Debit Card,15-03-2026,5,5
+ORD10187,CUST1827,Victoria Larson,Books,Comics,6,523.86,3143.16,South,Cash on Delivery,13-07-2024,10,1
+ORD10188,CUST1521,Jessica Delgado,Home,Mixer,3,1246.49,3739.47,North,Net Banking,30-08-2024,2,1
+ORD10189,CUST1808,Philip Kelly,Books,Novel,9,744.9,6704.1,South,Credit Card,19-04-2025,8,3
+ORD10190,CUST1537,Kimberly Bautista,Electronics,Laptop,5,1265.6,6328,East,Debit Card,08-06-2025,1,5
+ORD10191,CUST1578,Lawrence Lam,Clothing,Jacket,7,1458.97,10212.79,East,Credit Card,19-11-2024,12,1
+ORD10192,CUST1624,Ashley Wilson,Books,Textbook,8,77.49,619.92,East,Net Banking,18-12-2024,6,1
+ORD10193,CUST1932,Angela Anderson,Clothing,Shoes,8,1183.83,9470.64,West,Net Banking,25-10-2025,2,5
+ORD10194,CUST1120,Ricky Brown,Sports,Dumbbells,7,1063.72,7446.04,North,Credit Card,31-03-2026,4,3
+ORD10195,CUST1053,Kaitlyn Dunn,Electronics,Smart Watch,10,1154.42,11544.2,South,Net Banking,04-04-2025,2,2
+ORD10196,CUST1387,Gary Perkins,Home,Chair,9,355.96,3203.64,South,Credit Card,05-07-2024,14,1
+ORD10197,CUST1943,Rachel Strickland,Electronics,Smartphone,10,1091.59,10915.9,South,,18-10-2024,10,2
+ORD10198,CUST1108,Michael Torres,Clothing,Jacket,9,890.53,8014.77,North,UPI,21-03-2025,8,3
+ORD10199,CUST1846,Jennifer Robinson,Electronics,Smart Watch,5,588.73,2943.65,North,Credit Card,25-08-2024,11,2
+ORD10200,CUST1147,Joseph White,Sports,Football,5,377.8,1889,East,Cash on Delivery,26-02-2026,3,3
+ORD10201,CUST1865,Nathaniel Williams,Home,Lamp,9,1379.9,12419.1,West,Net Banking,22-10-2024,2,2
+ORD10202,CUST1732,Kelli Jacobson,Home,Chair,8,980.92,7847.36,East,Net Banking,05-01-2025,6,3
+ORD10203,CUST1542,Miguel Melton,Home,Vacuum Cleaner,5,533.81,2669.05,North,Net Banking,28-09-2024,12,3
+ORD10204,CUST1361,Brandi Martin,Home,Mixer,7,72.52,507.64,West,Net Banking,30-12-2024,3,5
+ORD10205,CUST1063,Dana Ford,Home,Chair,3,654.13,1962.39,North,Debit Card,22-12-2024,12,2
+ORD10206,CUST1019,Margaret York,Books,Textbook,10,103.94,1039.4,South,Credit Card,17-10-2024,10,5
+ORD10207,CUST1026,Brad Levy,Home,Vacuum Cleaner,6,456.3,2737.8,North,,20-05-2026,11,1
+ORD10208,CUST1912,Ian Cunningham,Electronics,Headphones,3,850.58,2551.74,North,Debit Card,07-11-2024,9,4
+ORD10209,CUST1468,Lisa Martin,Sports,Yoga Mat,7,343.76,2406.32,South,Cash on Delivery,03-04-2026,7,3
+ORD10210,CUST1772,Phillip Simmons,Home,Lamp,10,593.78,5937.8,South,Credit Card,20-09-2024,7,1
+ORD10211,CUST1550,Daniel Lang,Home,Lamp,10,1483.54,14835.4,West,Net Banking,20-08-2025,1,2
+ORD10212,CUST1273,Jessica Campbell,Clothing,T-Shirt,10,822.25,8222.5,North,Net Banking,23-03-2026,8,1
+ORD10213,CUST1225,Mackenzie Sherman,Clothing,Jeans,5,1171.49,5857.45,South,Net Banking,05-01-2026,6,5
+ORD10214,CUST1507,Ariel Miller,Home,Mixer,5,597.62,2988.1,West,Debit Card,12-08-2024,12,2
+ORD10215,CUST1336,Donald Wright,Sports,Football,10,948.23,9482.3,West,UPI,08-01-2025,13,1
+ORD10216,CUST1157,Tom Moreno,Home,Mixer,3,859.2,2577.6,East,Credit Card,14-07-2025,9,2
+ORD10217,CUST1656,Anna Gonzalez,Clothing,Jeans,8,564.07,4512.56,,Cash on Delivery,20-01-2025,2,5
+ORD10218,CUST1785,Jason Newman,Sports,Dumbbells,2,670.35,1340.7,South,Credit Card,25-05-2026,8,3
+ORD10219,CUST1461,Autumn Maxwell,Clothing,Jacket,9,269,2421,South,UPI,11-10-2024,13,3
+ORD10220,CUST1066,Gary Jimenez,Home,Lamp,7,881.22,6168.54,East,Debit Card,16-08-2025,4,1
+ORD10221,CUST1724,Kristen Donovan,Sports,Dumbbells,8,386.39,3091.12,South,Debit Card,20-02-2025,9,5
+ORD10222,CUST1810,Deborah Yang,Electronics,Laptop,10,938.18,9381.8,South,UPI,21-02-2025,7,1
+ORD10223,CUST1435,Joseph Jones,Electronics,Smartphone,6,1317.83,7906.98,North,Debit Card,16-08-2025,5,1
+ORD10224,CUST1852,Matthew Maddox,Electronics,Laptop,2,818.56,1637.12,South,Net Banking,24-09-2025,11,3
+ORD10225,CUST1489,Sergio Harris,Clothing,Shoes,3,892.68,2678.04,West,Cash on Delivery,17-02-2026,1,2
+ORD10226,CUST1803,Crystal Maynard,Clothing,T-Shirt,4,1058.18,4232.72,North,,06-12-2025,2,4
+ORD10227,CUST1548,Hailey Jones,Books,Novel,9,1132.53,10192.77,West,Cash on Delivery,25-11-2024,11,2
+ORD10228,CUST1147,Victoria Johnston,Clothing,Shoes,2,1027.1,2054.2,North,Cash on Delivery,18-09-2025,5,5
+ORD10229,CUST1011,Morgan Martinez,Books,Novel,4,1489.63,5958.52,North,,03-02-2025,10,1
+ORD10230,CUST1206,Sandra Powell,Clothing,Shoes,9,933.29,8399.61,South,Net Banking,21-06-2024,8,1
+ORD10231,CUST1486,Patricia Walls,Clothing,Jacket,2,593.47,1186.94,East,Credit Card,09-08-2025,9,2
+ORD10232,CUST1350,Maxwell Camacho,Sports,Dumbbells,4,477.31,1909.24,South,UPI,31-10-2025,3,1
+ORD10233,CUST1937,Roger Haas,Electronics,Laptop,6,1327.85,7967.1,South,Credit Card,25-11-2025,14,2
+ORD10234,CUST1228,Jacob Shaffer,Books,Textbook,10,442.96,4429.6,East,Credit Card,14-05-2026,1,5
+ORD10235,CUST1593,Sherry Miles,Clothing,T-Shirt,10,260.37,2603.7,North,Net Banking,06-06-2025,6,1
+ORD10236,CUST1179,Diana Juarez,Home,Chair,2,1232.61,2465.22,,Cash on Delivery,30-08-2024,8,5
+ORD10237,CUST1463,Keith Wagner,Clothing,Shoes,7,185.87,1301.09,South,,13-09-2024,5,1
+ORD10238,CUST1554,Wayne Garza,Sports,Football,3,1072.03,3216.09,South,Net Banking,07-07-2025,2,1
+ORD10239,CUST1630,Christopher Rhodes,Books,Textbook,3,1271.26,3813.78,South,Cash on Delivery,28-10-2025,11,5
+ORD10240,CUST1068,Ernest Vega,Sports,Cricket Bat,6,1443.93,8663.58,North,Cash on Delivery,01-02-2025,5,1
+ORD10241,CUST1062,Lauren Bishop,Sports,Yoga Mat,3,248.51,745.53,North,Cash on Delivery,22-01-2025,9,4
+ORD10242,CUST1192,Brenda Dickson,Books,Magazine,2,1114.9,2229.8,East,Debit Card,04-12-2025,9,1
+ORD10243,CUST1870,Joanne Holt,Sports,Yoga Mat,9,852.79,7675.11,North,UPI,14-09-2025,2,5
+ORD10244,CUST1717,Cody Marquez,Books,Novel,2,516.06,1032.12,East,UPI,02-01-2025,9,5
+ORD10245,CUST1211,Maria Ortiz,Electronics,Laptop,9,714.16,6427.44,East,Debit Card,24-09-2024,1,2
+ORD10246,CUST1609,Mark Wolfe,Electronics,Smart Watch,6,1133.98,6803.88,East,Debit Card,04-06-2024,3,5
+ORD10247,CUST1714,Sara Barker,Electronics,Laptop,2,1272.89,2545.78,South,UPI,08-08-2025,6,1
+ORD10248,CUST1986,Ana Miles,Clothing,Shoes,10,652.62,6526.2,North,Credit Card,22-09-2025,7,3
+ORD10249,CUST1818,Ashley Schultz,Books,Textbook,2,1151.23,2302.46,North,Credit Card,19-09-2024,2,2
+ORD10250,CUST1107,Thomas Ortega,Sports,Cricket Bat,1,815.45,815.45,East,Credit Card,27-05-2025,9,1
+ORD10251,CUST1989,Cassandra Sanchez,Clothing,T-Shirt,4,115.62,462.48,South,Net Banking,03-06-2025,11,5
+ORD10252,CUST1525,Paul Davis,Books,Novel,7,1288.94,9022.58,West,Debit Card,01-04-2025,13,3
+ORD10253,CUST1566,Garrett Evans,Books,Comics,4,235.96,943.84,West,Credit Card,11-08-2024,5,4
+ORD10254,CUST1920,Daniel Harris,Sports,Cricket Bat,10,39.72,397.2,South,Cash on Delivery,25-06-2024,6,2
+ORD10255,CUST1160,Haley Kirby,Electronics,Headphones,6,12.86,77.16,North,Cash on Delivery,20-02-2025,4,2
+ORD10256,CUST1136,Scott Tran,Electronics,Smartphone,1,1050.51,1050.51,West,Cash on Delivery,12-06-2025,12,5
+ORD10257,CUST1964,Michelle Kim,Electronics,Headphones,10,604.29,6042.9,East,UPI,18-02-2025,14,2
+ORD10258,CUST1189,Charles Martinez,Electronics,Headphones,7,1494.31,10460.17,South,UPI,30-01-2025,12,5
+ORD10259,CUST1217,Robert Davis,Clothing,T-Shirt,3,889.91,2669.73,South,Cash on Delivery,09-04-2026,9,3
+ORD10260,CUST1320,Mark Rodgers,Clothing,Jeans,6,46.43,278.58,South,Debit Card,12-09-2024,8,4
+ORD10261,CUST1713,Stephen Pham,Sports,Yoga Mat,4,1341.57,5366.28,North,Debit Card,18-12-2024,11,1
+ORD10262,CUST1104,Richard Mathews,Books,Comics,8,164.15,1313.2,South,Cash on Delivery,25-03-2026,9,4
+ORD10263,CUST1711,Bradley Clark,Clothing,T-Shirt,9,488.21,4393.89,North,Net Banking,19-03-2025,8,5
+ORD10264,CUST1048,Ruben Evans,Books,Magazine,1,912.23,912.23,West,Net Banking,03-06-2026,9,3
+ORD10265,CUST1302,Linda Crawford,Electronics,Laptop,3,152.7,458.1,West,UPI,03-02-2025,12,2
+ORD10266,CUST1008,Stephen Bryant,Home,Vacuum Cleaner,5,670.63,3353.15,South,Net Banking,29-03-2026,4,1
+ORD10267,CUST1448,Andrea Dixon,Books,Comics,9,1159.42,10434.78,West,Debit Card,25-11-2025,1,2
+ORD10268,CUST1962,Jacob Holder,Electronics,Smart Watch,6,962.99,5777.94,West,Net Banking,03-12-2024,12,4
+ORD10269,CUST1387,Kristin Choi,Books,Textbook,6,19.47,116.82,South,Cash on Delivery,03-12-2025,11,1
+ORD10270,CUST1853,Susan Jenkins,Sports,Cricket Bat,4,1369.71,5478.84,West,UPI,03-08-2024,10,1
+ORD10271,CUST1308,Michael Bowers,Books,Magazine,3,369.63,1108.89,East,Credit Card,10-02-2026,8,5
+ORD10272,CUST1544,Peter Price,Books,Textbook,7,240.49,1683.43,North,Net Banking,25-07-2025,10,2
+ORD10273,CUST1935,Anita Jackson,Clothing,Jacket,7,201.84,1412.88,North,Net Banking,13-01-2025,2,5
+ORD10274,CUST1884,James Palmer,Clothing,Jeans,2,66.76,133.52,East,Net Banking,18-07-2024,10,3
+ORD10275,CUST1317,Kimberly Mcconnell,Clothing,Jeans,7,703.65,4925.55,North,Cash on Delivery,24-05-2026,7,2
+ORD10276,CUST1044,Mary Braun,Home,Chair,1,865.34,865.34,West,Debit Card,02-01-2026,13,4
+ORD10277,CUST1113,Danielle Phillips,Clothing,Jacket,3,53.37,160.11,South,Cash on Delivery,22-10-2025,11,2
+ORD10278,CUST1930,Mark Brooks,Home,Chair,3,901.51,2704.53,South,Debit Card,04-08-2025,7,4
+ORD10279,CUST1301,Marcus Smith,Electronics,Laptop,5,643.83,3219.15,South,Net Banking,02-01-2025,8,3
+ORD10280,CUST1925,Sheila Smith,Home,Mixer,5,103.5,517.5,West,Debit Card,28-05-2025,10,1
+ORD10281,CUST1686,Holly Clements,Electronics,Smart Watch,7,834.3,5840.1,East,Net Banking,07-12-2025,10,1
+ORD10282,CUST1271,Jennifer Knapp,Electronics,Laptop,7,114.35,800.45,West,Net Banking,29-06-2025,6,3
+ORD10283,CUST1629,Donald Mueller,Electronics,Smart Watch,6,815.41,4892.46,East,UPI,21-06-2025,6,
+ORD10284,CUST1085,Trevor Davis,Clothing,Jeans,7,78.01,546.07,West,UPI,23-10-2024,13,1
+ORD10285,CUST1474,David Bautista,Sports,Yoga Mat,5,1449.93,7249.65,South,Net Banking,25-04-2025,12,5
+ORD10286,CUST1508,Evan Hopkins,Sports,Dumbbells,3,1294.4,3883.2,North,Credit Card,19-02-2025,14,3
+ORD10287,CUST1156,Phillip Gonzalez,Books,Novel,4,933.57,3734.28,East,UPI,22-11-2025,2,5
+ORD10288,CUST1557,Crystal Kim DVM,electronics,Lamp,4,202.27,809.08,South,Net Banking,05-09-2025,11,5
+ORD10289,CUST1209,Tony Vargas,Books,Magazine,3,1067.94,3203.82,,Credit Card,29-06-2025,9,3
+ORD10290,CUST1547,Stephanie Brown,Books,Magazine,1,1207.82,1207.82,South,Net Banking,11-01-2026,2,4
+ORD10291,CUST1338,Sheri Rodriguez,Electronics,Smart Watch,9,337.43,3036.87,West,Net Banking,28-12-2024,13,2
+ORD10292,CUST1905,Rebecca Hall,Books,Comics,3,408.69,1226.07,West,Debit Card,20-06-2024,3,2
+ORD10293,CUST1848,Sherry Brown,Home,Chair,8,1385.35,11082.8,North,Net Banking,18-05-2026,9,5
+ORD10294,CUST1812,Angela Mercado,Sports,Yoga Mat,8,1284.73,10277.84,North,Cash on Delivery,04-07-2024,8,5
+ORD10295,CUST1210,Danielle Mcdaniel,Home,Mixer,5,335.25,1676.25,West,Credit Card,17-09-2024,13,1
+ORD10296,CUST1872,Michael Gaines,Sports,Cricket Bat,6,1288.61,7731.66,West,Net Banking,12-11-2025,3,3
+ORD10297,CUST1986,William Berry,Electronics,Smartphone,6,103.92,623.52,North,Debit Card,13-03-2025,1,4
+ORD10298,CUST1264,Sheila Woods,Electronics,Laptop,7,768.72,5381.04,West,Cash on Delivery,08-10-2024,12,5
+ORD10299,CUST1904,Victoria Vang,Books,Textbook,7,35.09,245.63,South,Debit Card,20-09-2024,5,5
+ORD10300,CUST1796,Lauren Gaines,Clothing,Shoes,5,299.65,1498.25,South,Net Banking,31-07-2024,6,5
+ORD10301,CUST1883,Melanie Beck,Sports,Yoga Mat,8,354.75,2838,South,UPI,19-10-2024,8,1
+ORD10302,CUST1374,Kathleen King,Home,Chair,5,1062.85,5314.25,,Debit Card,20-04-2026,14,4
+ORD10303,CUST1229,Anne Franklin,Home,Chair,3,746.46,2239.38,,Credit Card,24-08-2025,1,4
+ORD10304,CUST1954,James West,Electronics,Laptop,9,787.74,7089.66,,Cash on Delivery,06-02-2026,9,2
+ORD10305,CUST1096,Stephanie Kaiser,Home,Lamp,4,35.19,140.76,East,Net Banking,26-10-2024,3,2
+ORD10306,CUST1940,Kim Brewer,Electronics,Laptop,4,67.87,271.48,South,Debit Card,31-01-2025,1,5
+ORD10307,CUST1269,Susan Thomas,Home,Lamp,8,31.19,249.52,South,UPI,26-07-2024,8,1
+ORD10308,CUST1459,Bradley Wagner,Sports,Football,7,1460.89,10226.23,West,Debit Card,07-01-2026,9,4
+ORD10309,CUST1444,Whitney Hernandez,Clothing,Shoes,10,1103.53,11035.3,South,Cash on Delivery,28-07-2025,13,4
+ORD10310,CUST1116,Robert Nguyen,Electronics,Headphones,5,110.05,550.25,East,Cash on Delivery,29-04-2025,1,4
+ORD10311,CUST1968,Claudia Patel,Home,Chair,6,71.65,429.9,South,Cash on Delivery,16-05-2026,13,2
+ORD10312,CUST1891,Jason Thomas,Sports,Dumbbells,6,1300.99,7805.94,North,Debit Card,14-08-2025,6,3
+ORD10313,CUST1187,Christopher Mack,Books,Magazine,5,399.86,1999.3,East,Cash on Delivery,26-08-2024,11,2
+ORD10314,CUST1667,Jillian Brown,Books,Comics,9,575.38,5178.42,North,Debit Card,01-05-2026,8,4
+ORD10315,CUST1866,Sherry Cox,Books,Textbook,1,368.71,368.71,South,Cash on Delivery,05-07-2024,1,5
+ORD10316,CUST1484,Linda Mays,Books,Novel,5,869.02,4345.1,West,Credit Card,27-01-2026,8,2
+ORD10317,CUST1691,Susan Hughes,Books,Novel,10,1322.49,13224.9,South,Credit Card,16-01-2026,9,1
+ORD10318,CUST1648,Joe Wilcox,Clothing,T-Shirt,5,1055.3,5276.5,South,Cash on Delivery,03-06-2026,3,3
+ORD10319,CUST1231,Lisa Jimenez,Electronics,Smart Watch,9,489.99,4409.91,East,Debit Card,27-01-2025,6,5
+ORD10320,CUST1638,Colleen Baker,Clothing,Shoes,3,1220.34,3661.02,South,,01-09-2024,5,2
+ORD10321,CUST1319,Robert Higgins,Books,Novel,4,1085.65,4342.6,East,Debit Card,06-01-2026,5,4
+ORD10322,CUST1135,Charles Miller,Books,Textbook,9,1495.84,13462.56,East,Credit Card,27-09-2025,6,2
+ORD10323,CUST1461,Curtis Reyes,Books,Novel,10,482.57,4825.7,North,Credit Card,04-03-2025,3,4
+ORD10324,CUST1643,Shannon Holt DDS,Sports,Cricket Bat,2,745.37,1490.74,North,Cash on Delivery,03-03-2025,14,3
+ORD10325,CUST1432,James Nunez,Clothing,Jacket,1,247.11,247.11,West,UPI,21-12-2025,7,4
+ORD10326,CUST1275,Kenneth Wolfe,Clothing,Shoes,6,854.37,5126.22,South,Cash on Delivery,08-03-2025,3,5
+ORD10327,CUST1549,Michelle Williamson,Electronics,Smartphone,3,329.59,988.77,South,Credit Card,26-04-2025,11,2
+ORD10328,CUST1062,Martin Dillon,Sports,Dumbbells,6,1316.18,7897.08,West,Credit Card,18-02-2026,2,2
+ORD10329,CUST1263,Lisa Long,Clothing,Jeans,1,71.85,71.85,West,Debit Card,15-10-2025,8,4
+ORD10330,CUST1402,Kerri Shaw,Sports,Cricket Bat,3,595.76,1787.28,North,Credit Card,16-09-2024,6,4
+ORD10331,CUST1527,Ryan Melton,Books,Magazine,9,252.3,2270.7,West,UPI,06-11-2025,7,1
+ORD10332,CUST1246,Joel Osborne,Sports,Yoga Mat,9,628.23,5654.07,West,Debit Card,02-07-2025,12,2
+ORD10333,CUST1290,Joseph Johnson,Home,Vacuum Cleaner,6,1453.43,8720.58,North,Credit Card,13-06-2024,6,3
+ORD10334,CUST1706,Savannah Osborne,Home,Chair,2,1050.73,2101.46,North,Credit Card,02-05-2025,1,4
+ORD10335,CUST1073,Brittany Maddox,Books,Textbook,2,609.43,1218.86,South,Cash on Delivery,20-07-2024,5,4
+ORD10336,CUST1599,William Alvarez,Clothing,Jeans,10,876.65,8766.5,South,UPI,29-12-2025,4,2
+ORD10337,CUST1555,Mark Clayton,Books,Textbook,7,544.63,3812.41,West,UPI,14-02-2025,12,3
+ORD10338,CUST1250,Brittany Li,Electronics,Laptop,6,1332.2,7993.2,West,Credit Card,17-12-2024,6,4
+ORD10339,CUST1361,Vernon Lee,Electronics,Headphones,6,180.64,1083.84,South,Credit Card,21-10-2025,4,4
+ORD10340,CUST1767,Christopher Dominguez,Books,Textbook,10,170.46,1704.6,South,Net Banking,07-12-2025,14,5
+ORD10341,CUST1195,Donald Koch,Books,Textbook,7,348.98,2442.86,West,Net Banking,27-02-2026,5,1
+ORD10342,CUST1959,Michelle Gonzalez,Home,Mixer,10,187.25,88000,South,Net Banking,07-08-2025,8,3
+ORD10343,CUST1546,Carol Reynolds,Books,Comics,9,712.45,6412.05,South,Debit Card,10-02-2026,11,4
+ORD10344,CUST1482,Elizabeth Dixon,Home,Lamp,1,1410.28,1410.28,East,Credit Card,20-01-2026,10,3
+ORD10345,CUST1184,Samantha Hill,Sports,Dumbbells,6,875.9,5255.4,West,UPI,27-06-2025,9,4
+ORD10346,CUST1010,David Sullivan,Clothing,T-Shirt,9,252.06,2268.54,West,Credit Card,19-02-2026,6,
+ORD10347,CUST1213,Robin Lewis,Sports,Dumbbells,2,726.48,1452.96,South,Cash on Delivery,14-02-2026,10,3
+ORD10348,CUST1577,David Moore,Sports,Football,9,1457.98,13121.82,West,Net Banking,18-11-2024,12,2
+ORD10349,CUST1259,Miss Olivia Carroll,Clothing,Jacket,7,1439.38,10075.66,South,Cash on Delivery,15-02-2026,9,
+ORD10350,CUST1345,Craig Delacruz,Books,Textbook,7,36.63,256.41,South,Credit Card,08-05-2026,13,3
+ORD10351,CUST1677,Pamela Braun,electronics,Smartphone,10,165,1650,North,UPI,11-01-2026,6,3
+ORD10352,CUST1221,Denise Cooper,Home,Chair,6,1177.43,7064.58,East,Debit Card,14-09-2024,2,1
+ORD10353,CUST1868,Summer Miller,Electronics,Smart Watch,7,128.46,899.22,West,Cash on Delivery,02-03-2026,10,5
+ORD10354,CUST1459,Evelyn Tate,Books,Textbook,7,1336.28,9353.96,West,Net Banking,13-09-2025,10,3
+ORD10355,CUST1041,Eric Flores,Sports,Dumbbells,9,520.24,4682.16,,Cash on Delivery,13-05-2025,13,3
+ORD10356,CUST1371,Kayla Bishop,Clothing,T-Shirt,3,1190.4,3571.2,North,,08-06-2025,3,3
+ORD10357,CUST1855,Shawn Sanchez,Home,Chair,10,1493.52,14935.2,South,Debit Card,22-09-2024,7,1
+ORD10358,CUST1913,Taylor Acosta,Home,Chair,10,1279.73,12797.3,West,Credit Card,06-06-2024,11,5
+ORD10359,CUST1094,Adam Collins,Sports,Yoga Mat,2,574.9,1149.8,West,Debit Card,26-03-2026,1,3
+ORD10360,CUST1712,Beth Castillo,Clothing,T-Shirt,7,215.45,1508.15,North,Net Banking,23-10-2025,7,5
+ORD10361,CUST1072,Timothy Harrison,Clothing,Shoes,6,1051.48,6308.88,East,Credit Card,24-04-2026,12,2
+ORD10362,CUST1969,Michael Davenport,Sports,Football,3,1499.87,4499.61,South,UPI,14-11-2025,6,1
+ORD10363,CUST1492,Marvin Hernandez,Sports,Yoga Mat,2,312.14,624.28,West,Credit Card,16-01-2025,13,1
+ORD10364,CUST1258,Julie Stafford,Sports,Football,7,1251.72,8762.04,North,Cash on Delivery,08-10-2025,8,2
+ORD10365,CUST1457,Julian Huffman,Electronics,Smart Watch,1,1314.35,1314.35,East,Net Banking,19-06-2025,6,5
+ORD10366,CUST1155,Jennifer Moran,Sports,Dumbbells,6,651.55,3909.3,West,UPI,01-06-2025,8,5
+ORD10367,CUST1612,Joshua Moyer,Books,Magazine,4,1408.4,5633.6,North,Cash on Delivery,01-09-2025,5,4
+ORD10368,CUST1461,Stacy Stewart,Electronics,Smartphone,2,1218.26,2436.52,North,Debit Card,05-02-2026,14,1
+ORD10369,CUST1487,Paul Lewis,Home,Lamp,6,938.01,5628.06,North,Net Banking,30-04-2025,1,5
+ORD10370,CUST1202,Christopher Cuevas,Electronics,Headphones,7,655.45,4588.15,South,Net Banking,24-06-2024,13,5
+ORD10371,CUST1445,Shawn Martinez,Books,Novel,2,947.08,1894.16,West,Debit Card,23-03-2026,7,5
+ORD10372,CUST1665,Thomas Mack,Home,Vacuum Cleaner,8,1259.83,10078.64,North,Credit Card,05-10-2024,10,3
+ORD10373,CUST1160,Steve Arias,Home,Lamp,5,233.43,1167.15,East,UPI,02-11-2024,9,5
+ORD10374,CUST1048,Donald Miller,Sports,Cricket Bat,5,1378.81,6894.05,West,UPI,24-01-2025,11,1
+ORD10375,CUST1227,Dr. Tiffany Cox DVM,Electronics,Laptop,3,1283,3849,North,Cash on Delivery,04-09-2025,11,4
+ORD10376,CUST1766,Joshua Padilla,Sports,Dumbbells,4,1156.72,4626.88,East,UPI,30-04-2025,5,4
+ORD10377,CUST1498,Mark Mckay,Electronics,Smart Watch,9,237.85,2140.65,South,Debit Card,27-03-2025,12,2
+ORD10378,CUST1583,Melissa Myers,Home,Chair,4,917.57,3670.28,South,Debit Card,20-09-2024,13,3
+ORD10379,CUST1929,Holly Diaz,Sports,Yoga Mat,8,137.72,1101.76,North,Net Banking,25-09-2025,10,4
+ORD10380,CUST1620,Matthew Norris,Electronics,Headphones,4,1351.68,5406.72,South,Cash on Delivery,10-07-2025,10,1
+ORD10381,CUST1176,Catherine Giles,Home,Vacuum Cleaner,8,1029.85,8238.8,East,Cash on Delivery,11-01-2026,14,2
+ORD10382,CUST1005,Frederick Miller,Sports,Dumbbells,5,283.8,1419,West,Debit Card,24-06-2024,8,3
+ORD10383,CUST1070,Emily Everett,Sports,Cricket Bat,5,979.33,4896.65,East,Cash on Delivery,07-08-2025,3,2
+ORD10384,CUST1655,Michael Reed,Electronics,Smart Watch,8,1096.46,8771.68,East,UPI,12-12-2025,13,5
+ORD10385,CUST1848,Dylan Meadows,Books,Comics,4,271.95,1087.8,North,UPI,19-05-2025,9,5
+ORD10386,CUST1106,Michael Davis,Sports,Yoga Mat,2,634.75,1269.5,North,Cash on Delivery,14-05-2026,14,5
+ORD10387,CUST1382,Michael Jefferson,Home,Chair,10,196.33,1963.3,North,Debit Card,11-12-2025,12,5
+ORD10388,CUST1918,Tina Davis,Books,Magazine,9,651.79,5866.11,South,Cash on Delivery,11-05-2025,9,5
+ORD10389,CUST1346,Sabrina Petersen,Home,Mixer,5,442.58,2212.9,West,UPI,05-07-2024,12,2
+ORD10390,CUST1644,Dustin Bennett,Books,Comics,2,1443.45,2886.9,,,21-05-2025,2,3
+ORD10391,CUST1839,Mrs. Kelli Thompson,Clothing,Shoes,3,38.42,115.26,West,Net Banking,09-06-2024,3,3
+ORD10392,CUST1553,Shelby Howard,Books,Textbook,8,420.52,3364.16,East,Debit Card,17-08-2025,8,2
+ORD10393,CUST1904,Laura Ferguson,Sports,Football,7,586.68,4106.76,South,UPI,02-03-2026,9,1
+ORD10394,CUST1077,Joshua Snow,Clothing,Jeans,2,776.72,1553.44,North,Debit Card,18-01-2026,5,5
+ORD10395,CUST1897,Wanda Alexander,Sports,Cricket Bat,4,128.8,515.2,East,Credit Card,10-12-2024,6,2
+ORD10396,CUST1723,Kenneth Wilson,Electronics,Smartphone,10,1281.95,12819.5,West,Net Banking,15-12-2024,14,2
+ORD10397,CUST1023,Cynthia Arellano,Books,Comics,7,876.32,6134.24,North,UPI,27-01-2025,1,
+ORD10398,CUST1646,Terry Gray,Sports,Yoga Mat,2,1184.18,2368.36,North,Cash on Delivery,11-07-2025,4,1
+ORD10399,CUST1290,Barbara Wong,Electronics,Laptop,2,106.87,75000,West,Debit Card,10-10-2025,14,5
+ORD10400,CUST1553,Megan Lee,Sports,Yoga Mat,2,318,636,North,Credit Card,07-03-2026,2,1
+ORD10401,CUST1454,Tara Jones,Sports,Football,4,1167.95,4671.8,South,UPI,10-04-2025,3,5
+ORD10402,CUST1455,Patricia Schmitt,Home,Lamp,9,119.15,1072.35,West,UPI,03-01-2025,1,
+ORD10403,CUST1968,David Alexander,Books,Magazine,3,620.18,1860.54,East,UPI,04-09-2024,5,1
+ORD10404,CUST1836,James Steele,Books,Textbook,6,403.22,2419.32,East,Cash on Delivery,31-12-2024,1,3
+ORD10405,CUST1002,Christopher Pitts,Home,Vacuum Cleaner,5,931.16,4655.8,East,Credit Card,21-10-2024,12,3
+ORD10406,CUST1718,Sarah Floyd,Home,Lamp,10,649.65,6496.5,West,Cash on Delivery,20-12-2025,6,2
+ORD10407,CUST1689,Amanda Bowman,Electronics,Smartphone,2,736.18,1472.36,South,Credit Card,19-08-2025,14,1
+ORD10408,CUST1255,Ashley Mcintyre,Clothing,Jeans,4,1258.63,5034.52,South,Debit Card,14-03-2025,1,3
+ORD10409,CUST1700,John Cooley,Home,Mixer,3,1348.24,4044.72,West,Net Banking,25-03-2025,2,1
+ORD10410,CUST1659,Dr. Christine Mitchell DDS,Books,Comics,4,993.93,3975.72,North,UPI,09-03-2025,13,2
+ORD10411,CUST1515,Andrew Brown,Books,Novel,5,487.12,2435.6,North,Debit Card,23-06-2024,2,1
+ORD10412,CUST1166,Edwin Taylor,Books,Novel,7,725.71,5079.97,South,UPI,17-12-2024,9,3
+ORD10413,CUST1076,Elizabeth Lewis,Electronics,Smart Watch,9,875.61,7880.49,East,UPI,08-06-2024,3,5
+ORD10414,CUST1682,Nancy Jones,Books,Novel,1,219.51,219.51,East,UPI,22-08-2024,3,5
+ORD10415,CUST1606,Bobby Bass,Sports,Cricket Bat,8,1151.87,9214.96,South,Debit Card,29-12-2025,6,
+ORD10416,CUST1047,Stacey Williams,Sports,Cricket Bat,8,1072.33,8578.64,North,Credit Card,09-10-2024,9,5
+ORD10417,CUST1055,Brianna Lee,Sports,Yoga Mat,6,987.27,5923.62,South,Debit Card,23-09-2024,14,1
+ORD10418,CUST1483,Kelsey Shannon,Sports,Football,6,390.18,2341.08,South,Debit Card,19-04-2025,13,1
+ORD10419,CUST1974,James Collins,Books,Comics,2,945.58,1891.16,West,Cash on Delivery,14-11-2025,8,5
+ORD10420,CUST1503,Austin Mills,Sports,Yoga Mat,6,1401.14,8406.84,East,UPI,01-01-2026,4,3
+ORD10421,CUST1797,Ricky Craig,Books,Comics,6,581.83,3490.98,East,Debit Card,14-11-2025,6,4
+ORD10422,CUST1540,Carly Green,Clothing,Jeans,6,293.07,1758.42,North,UPI,27-06-2025,12,1
+ORD10423,CUST1906,Brandon Rodriguez,Electronics,Laptop,9,714.95,6434.55,West,Debit Card,12-08-2025,10,1
+ORD10424,CUST1060,Laura Sharp,Books,Comics,6,1245.75,7474.5,North,Cash on Delivery,18-10-2024,6,2
+ORD10425,CUST1960,Linda Mcclure,Books,Comics,3,1315.11,3945.33,North,Credit Card,23-04-2026,13,3
+ORD10426,CUST1764,Corey King,Sports,Dumbbells,1,542.31,542.31,West,Debit Card,23-03-2025,11,3
+ORD10427,CUST1407,Anne Pugh,Sports,Football,1,31.58,31.58,West,Net Banking,20-12-2025,12,4
+ORD10428,CUST1046,Angelica Torres MD,Electronics,Laptop,6,624.35,3746.1,West,Debit Card,25-04-2026,7,3
+ORD10429,CUST1562,Amy Sullivan,Home,Lamp,5,1290.44,6452.2,East,UPI,02-06-2025,4,5
+ORD10430,CUST1354,Melissa George,Electronics,Headphones,10,980.55,9805.5,North,Debit Card,01-06-2025,8,2
+ORD10431,CUST1117,Francis Ross,Home,Chair,4,43.91,175.64,North,UPI,26-04-2026,8,5
+ORD10432,CUST1026,Edward Williams,Clothing,Jacket,1,137.74,137.74,North,,09-03-2025,5,5
+ORD10433,CUST1915,Timothy Thompson,Books,Magazine,6,14.63,87.78,South,,04-03-2025,11,1
+ORD10434,CUST1358,Christine Johnson,Clothing,T-Shirt,5,547.38,2736.9,South,UPI,28-03-2026,13,4
+ORD10435,CUST1807,Joseph Bridges,Sports,Cricket Bat,5,754.65,3773.25,North,UPI,23-08-2024,7,
+ORD10436,CUST1731,Bradley Burton,Home,Lamp,1,41.63,41.63,South,Net Banking,20-02-2026,5,1
+ORD10437,CUST1126,Peter Pittman,Clothing,Jeans,10,418.75,4187.5,North,Debit Card,31-12-2024,7,1
+ORD10438,CUST1980,Robert Carter,Sports,Cricket Bat,8,1101.83,8814.64,East,UPI,17-11-2025,3,4
+ORD10439,CUST1875,Brooke Roth,Clothing,Jeans,2,714.61,1429.22,South,Credit Card,16-05-2025,1,3
+ORD10440,CUST1814,Emma Mendez,Sports,Cricket Bat,10,450.33,4503.3,North,Net Banking,16-02-2025,12,3
+ORD10441,CUST1413,Todd Cruz,Home,Vacuum Cleaner,3,1211.77,3635.31,South,UPI,20-12-2025,11,2
+ORD10442,CUST1363,Amy Henry,Home,Lamp,5,1286.21,6431.05,East,Cash on Delivery,06-06-2024,2,1
+ORD10443,CUST1568,Meagan Diaz,Sports,Cricket Bat,6,958.25,5749.5,East,Cash on Delivery,26-02-2025,13,3
+ORD10444,CUST1269,Tyler Holland,Clothing,Shoes,1,1223.19,1223.19,West,Debit Card,02-07-2024,5,4
+ORD10445,CUST1524,Marcia Marshall DDS,Home,Chair,6,929.96,5579.76,East,Cash on Delivery,08-11-2024,5,2
+ORD10446,CUST1893,Ian Jones,Books,Textbook,4,1135.07,4540.28,West,Cash on Delivery,07-02-2025,1,5
+ORD10447,CUST1352,Joseph Clark,Home,Chair,4,1015.65,4062.6,South,Net Banking,02-04-2026,11,5
+ORD10448,CUST1653,Mark Gordon,Sports,Dumbbells,4,173.01,692.04,South,Credit Card,18-08-2025,9,1
+ORD10449,CUST1736,Kimberly Phillips,Home,Chair,5,1183.1,5915.5,East,Net Banking,10-02-2026,11,3
+ORD10450,CUST1824,Jason Molina,Home,Vacuum Cleaner,10,516.82,5168.2,South,Credit Card,10-07-2024,1,4
+ORD10451,CUST1811,Elizabeth Heath,Clothing,T-Shirt,10,818.61,8186.1,East,UPI,07-04-2026,13,4
+ORD10452,CUST1325,Ronald Garcia,Sports,Cricket Bat,3,1259.16,3777.48,East,Debit Card,04-11-2025,1,5
+ORD10453,CUST1221,Ashley Hernandez,Clothing,T-Shirt,7,1337.02,9359.14,North,Net Banking,15-09-2024,5,2
+ORD10454,CUST1061,William Roman,Books,Textbook,3,457.65,1372.95,West,Debit Card,29-11-2025,3,3
+ORD10455,CUST1043,Brian Mason,Home,Lamp,6,142.35,854.1,North,Credit Card,03-01-2025,3,1
+ORD10456,CUST1270,Joel Williams,Sports,Yoga Mat,4,912.75,3651,North,Cash on Delivery,21-11-2025,2,4
+ORD10457,CUST1522,Sarah Clark,Clothing,T-Shirt,10,502.63,5026.3,North,Debit Card,24-02-2025,5,
+ORD10458,CUST1984,Kevin Vasquez,Electronics,Laptop,2,1003.4,2006.8,North,Credit Card,18-04-2025,10,4
+ORD10459,CUST1488,Dr. Erik Johnson,Books,Magazine,6,1222.07,7332.42,East,Cash on Delivery,10-09-2025,14,1
+ORD10460,CUST1442,Anna Riley,Electronics,Smart Watch,7,1466.02,10262.14,South,Debit Card,02-11-2025,3,4
+ORD10461,CUST1535,Jason Henderson,Electronics,Smartphone,3,554.2,1662.6,East,,22-08-2024,6,1
+ORD10462,CUST1679,Diana Brown,Books,Novel,7,731.17,150000,West,Credit Card,15-06-2025,13,2
+ORD10463,CUST1932,Benjamin White,Books,Magazine,5,1328.25,6641.25,West,Cash on Delivery,04-10-2024,13,5
+ORD10464,CUST1711,Lindsay Hendricks,Electronics,Headphones,1,566.48,566.48,South,Debit Card,06-09-2024,14,
+ORD10465,CUST1457,Alan Perez,Books,Magazine,9,1486.82,13381.38,South,Cash on Delivery,20-07-2024,12,3
+ORD10466,CUST1804,Shelby Gonzales,Electronics,Smart Watch,1,39.28,39.28,North,Credit Card,26-11-2025,10,3
+ORD10467,CUST1185,Jeffrey Diaz,Books,Textbook,2,1250.83,2501.66,North,Debit Card,27-09-2024,5,4
+ORD10468,CUST1677,Jon Peters,Books,Comics,2,249.43,498.86,North,Cash on Delivery,12-02-2025,2,3
+ORD10469,CUST1904,Autumn Nunez,Sports,Dumbbells,10,1253.64,12536.4,South,Cash on Delivery,29-07-2024,2,4
+ORD10470,CUST1016,Teresa Davis,Sports,Football,8,1041.53,8332.24,West,Cash on Delivery,28-12-2024,12,2
+ORD10471,CUST1555,Cheryl Nelson MD,Home,Lamp,10,874.54,8745.4,South,Cash on Delivery,23-08-2024,3,1
+ORD10472,CUST1084,James Powell,Electronics,Headphones,7,25.88,181.16,East,Credit Card,05-01-2026,2,2
+ORD10473,CUST1978,Ryan Gonzalez,Electronics,Laptop,7,73.46,514.22,South,Cash on Delivery,22-08-2024,6,4
+ORD10474,CUST1303,Dylan Mayer,Books,Textbook,7,1135.12,7945.84,North,Cash on Delivery,05-03-2026,13,1
+ORD10475,CUST1207,Kathryn Riley,Books,Magazine,2,1308.55,2617.1,East,Credit Card,19-07-2025,13,1
+ORD10476,CUST1045,Emily Cobb,Electronics,Smart Watch,5,414.36,2071.8,North,UPI,20-03-2026,14,2
+ORD10477,CUST1684,Jerry Horne,Home,Vacuum Cleaner,1,1229.27,1229.27,West,UPI,13-12-2025,14,5
+ORD10478,CUST1494,Joseph Johnson,Sports,Yoga Mat,10,993,9930,North,UPI,26-12-2024,3,3
+ORD10479,CUST1753,Sarah Kane,Books,Magazine,5,583.34,2916.7,East,Cash on Delivery,25-12-2025,14,5
+ORD10480,CUST1308,Elizabeth Huffman,Home,Chair,9,1252.26,11270.34,South,UPI,30-05-2025,6,1
+ORD10481,CUST1618,Emma Robinson,Sports,Cricket Bat,2,470.13,940.26,South,Debit Card,26-03-2025,5,5
+ORD10482,CUST1572,Wendy Allen,Sports,Cricket Bat,1,971.43,971.43,South,Credit Card,28-09-2024,2,5
+ORD10483,CUST1612,Tammy Byrd,Electronics,Headphones,2,1422.87,2845.74,North,UPI,25-07-2024,14,3
+ORD10484,CUST1105,Brian Chan,Sports,Football,2,394.56,789.12,West,Credit Card,19-10-2024,3,3
+ORD10485,CUST1765,Deborah Salinas,Books,Novel,1,160.76,160.76,East,Cash on Delivery,26-03-2026,2,5
+ORD10486,CUST1305,Taylor Davis,Home,Vacuum Cleaner,4,771.84,3087.36,East,Debit Card,16-10-2025,8,1
+ORD10487,CUST1364,Scott Simmons,Books,Novel,10,1055.55,10555.5,,Cash on Delivery,25-06-2025,1,3
+ORD10488,CUST1282,Ann Villegas,Home,Mixer,9,1376.29,12386.61,South,Debit Card,23-02-2026,4,3
+ORD10489,CUST1695,Lori Swanson,Electronics,Headphones,9,602.38,5421.42,South,Debit Card,08-11-2025,4,1
+ORD10490,CUST1224,Christie Thomas,Clothing,Jacket,1,230.14,230.14,South,Debit Card,25-07-2024,13,5
+ORD10491,CUST1823,Ricky Herrera,Sports,Football,8,255.56,2044.48,North,Credit Card,03-02-2025,14,
+ORD10492,CUST1464,Eric Edwards,Electronics,Smart Watch,9,1447.19,13024.71,West,Net Banking,07-06-2024,11,1
+ORD10493,CUST1287,Willie Leblanc,Home,Mixer,4,679.93,2719.72,North,Credit Card,09-06-2024,6,5
+ORD10494,CUST1215,Zachary Walker,Electronics,Laptop,8,482.85,3862.8,,Credit Card,03-08-2025,13,1
+ORD10495,CUST1597,Teresa Hamilton,Clothing,Jeans,3,522.93,1568.79,East,UPI,25-07-2025,3,3
+ORD10496,CUST1966,Ryan Ewing,Books,Novel,6,121.2,727.2,West,UPI,07-09-2025,8,2
+ORD10497,CUST1646,Jessica Meyers,Clothing,Jeans,10,252.73,2527.3,North,Credit Card,27-06-2024,12,5
+ORD10498,CUST1618,Clayton Little,Sports,Cricket Bat,8,415.26,3322.08,North,Cash on Delivery,07-11-2025,12,4
+ORD10499,CUST1063,Anthony Weber,Sports,Cricket Bat,5,1298.52,6492.6,West,Credit Card,27-09-2024,7,1
+ORD10500,CUST1336,Shannon Hansen,Electronics,Headphones,2,1147.3,2294.6,South,Credit Card,27-05-2026,10,2
+ORD10501,CUST1819,James Mason,Home,Lamp,9,307.34,2766.06,South,UPI,03-03-2026,12,2
+ORD10502,CUST1872,Jerry Thompson,Sports,Cricket Bat,8,345.03,2760.24,East,Net Banking,19-07-2024,9,5
+ORD10503,CUST1202,Anthony Hunter,Home,Lamp,2,1471.36,2942.72,North,Debit Card,17-01-2025,11,1
+ORD10504,CUST1370,Lori Pierce,Clothing,T-Shirt,2,622.94,1245.88,North,Debit Card,04-04-2025,5,2
+ORD10505,CUST1292,Vincent Williams,Sports,Dumbbells,6,421.26,2527.56,West,UPI,07-01-2026,8,2
+ORD10506,CUST1476,Maria Mcpherson,Sports,Football,2,1066.13,2132.26,East,Debit Card,25-02-2026,7,5
+ORD10507,CUST1568,Curtis Hull,Clothing,Jacket,5,1438.7,7193.5,South,Debit Card,28-04-2026,5,1
+ORD10508,CUST1783,Robin Lane,Home,Lamp,10,137.66,1376.6,West,UPI,18-03-2025,1,1
+ORD10509,CUST1870,Daryl Fuller,Clothing,Jacket,7,735.49,5148.43,North,UPI,23-06-2024,2,4
+ORD10510,CUST1690,Richard Garcia,Clothing,Shoes,4,1245.56,4982.24,West,Cash on Delivery,30-04-2026,9,3
+ORD10511,CUST1848,Christopher Barnes,Sports,Football,1,370.88,370.88,West,Net Banking,07-04-2026,2,3
+ORD10512,CUST1199,Colleen Curry,Home,Lamp,8,117.66,941.28,South,Cash on Delivery,27-04-2026,13,1
+ORD10513,CUST1437,Gregory Mendez,Books,Magazine,10,764.34,7643.4,West,Cash on Delivery,14-04-2026,13,4
+ORD10514,CUST1714,Micheal Jones,Sports,Cricket Bat,7,532.46,3727.22,North,Cash on Delivery,05-05-2026,9,2
+ORD10515,CUST1813,Bobby Peters,Books,Novel,7,207.63,1453.41,East,Credit Card,30-12-2024,5,5
+ORD10516,CUST1499,Teresa Martinez,Clothing,Jeans,9,965.76,8691.84,North,Net Banking,27-01-2025,8,2
+ORD10517,CUST1034,Yolanda Jennings,Home,Lamp,6,1285.25,7711.5,North,Debit Card,30-11-2024,7,4
+ORD10518,CUST1266,Sabrina Aguirre,Clothing,T-Shirt,3,1239.18,3717.54,South,Net Banking,03-06-2024,11,3
+ORD10519,CUST1155,Alison Munoz,Clothing,Shoes,4,1348.31,5393.24,South,Credit Card,06-02-2025,7,1
+ORD10520,CUST1213,Joshua Wall,Home,Lamp,4,305.54,1222.16,North,Cash on Delivery,27-05-2026,4,3
+ORD10521,CUST1172,Tanya Thomas,Sports,Cricket Bat,5,1077.69,5388.45,East,UPI,03-11-2025,14,1
+ORD10522,CUST1738,Brett White,Clothing,Jeans,3,966.3,2898.9,South,Cash on Delivery,14-05-2025,5,3
+ORD10523,CUST1986,Karen Walker,Clothing,T-Shirt,1,507.31,507.31,North,Net Banking,25-01-2025,3,1
+ORD10524,CUST1465,Ashley Cunningham,Sports,Yoga Mat,1,590.69,590.69,South,Debit Card,14-12-2025,3,2
+ORD10525,CUST1971,Laurie Fernandez,Home,Lamp,9,509.7,4587.3,West,Credit Card,02-03-2026,12,2
+ORD10526,CUST1234,Amy Clay,Home,Vacuum Cleaner,7,551.38,3859.66,North,Cash on Delivery,10-07-2024,3,5
+ORD10527,CUST1987,Vincent Barton,Books,Novel,7,110.43,773.01,West,Credit Card,16-05-2026,12,1
+ORD10528,CUST1516,John Fitzgerald,Books,Magazine,2,401.47,802.94,North,Cash on Delivery,02-12-2025,9,1
+ORD10529,CUST1628,James Miller,Sports,Yoga Mat,2,858.62,1717.24,South,Cash on Delivery,27-08-2025,12,2
+ORD10530,CUST1887,David Lopez,Electronics,Headphones,9,1084.95,9764.55,West,Net Banking,23-09-2024,12,1
+ORD10531,CUST1649,Anthony Hale,Home,Mixer,5,660.15,3300.75,East,Debit Card,06-05-2026,4,3
+ORD10532,CUST1661,Jenna Hall,Sports,Football,7,669.95,4689.65,South,Net Banking,08-05-2026,5,1
+ORD10533,CUST1050,Jessica Johnson,Electronics,Smart Watch,6,1085.9,6515.4,South,Credit Card,06-04-2025,4,5
+ORD10534,CUST1926,Kathleen Schaefer,Sports,Yoga Mat,7,1390,9730,South,Cash on Delivery,15-06-2025,14,2
+ORD10535,CUST1256,Dylan King,Books,Comics,5,693.5,3467.5,North,Cash on Delivery,21-08-2024,2,3
+ORD10536,CUST1445,Catherine Reyes,Electronics,Smartphone,9,1274.22,11467.98,East,Net Banking,15-01-2026,5,5
+ORD10537,CUST1329,Mary Herrera,Electronics,Laptop,2,1227.2,2454.4,North,Debit Card,01-08-2025,1,
+ORD10538,CUST1615,Erica Stone,Electronics,Headphones,1,954.31,954.31,East,Cash on Delivery,10-04-2026,3,4
+ORD10539,CUST1178,Jill Frost,Clothing,Jacket,5,814.95,4074.75,South,Net Banking,05-08-2024,12,5
+ORD10540,CUST1803,Marcus Bailey,Electronics,Smart Watch,4,784.49,3137.96,East,Cash on Delivery,14-06-2025,6,1
+ORD10541,CUST1973,Joseph Cook,Clothing,T-Shirt,1,606.52,606.52,West,Debit Card,12-01-2026,14,3
+ORD10542,CUST1569,Mark Smith,Clothing,T-Shirt,4,500.02,2000.08,West,Credit Card,12-03-2025,6,4
+ORD10543,CUST1177,James Fischer,Home,Lamp,10,483.49,68000,South,Net Banking,17-01-2025,11,3
+ORD10544,CUST1985,Gail Webb,Sports,Cricket Bat,9,369.9,3329.1,West,Debit Card,30-01-2025,11,4
+ORD10545,CUST1373,Joshua Hughes,Sports,Football,8,617.85,4942.8,North,Credit Card,22-02-2025,11,5
+ORD10546,CUST1230,Robert Harris,Books,Novel,4,1260.9,5043.6,North,Debit Card,12-05-2026,7,
+ORD10547,CUST1231,Willie Mcdonald,Clothing,Jeans,6,1039,6234,West,Net Banking,13-07-2024,13,3
+ORD10548,CUST1995,Beverly Rodriguez,Sports,Cricket Bat,1,902.15,902.15,South,UPI,13-08-2025,9,1
+ORD10549,CUST1957,Stacey Bennett,Electronics,Laptop,3,861.51,2584.53,West,Net Banking,07-08-2025,14,4
+ORD10550,CUST1763,Brittany Gonzalez,Sports,Cricket Bat,8,1284.61,10276.88,South,Cash on Delivery,22-06-2025,6,1
+ORD10551,CUST1271,Jose Mendez,Home,Vacuum Cleaner,3,744.64,2233.92,West,Net Banking,06-02-2025,6,1
+ORD10552,CUST1438,Courtney English,Clothing,T-Shirt,1,694.95,694.95,North,Credit Card,25-06-2025,6,4
+ORD10553,CUST1155,Bethany Rangel,Electronics,Smart Watch,3,896.44,2689.32,South,Cash on Delivery,14-08-2025,13,3
+ORD10554,CUST1539,Ashley Reed,Clothing,Jeans,7,1183.8,8286.6,East,Net Banking,07-12-2025,5,3
+ORD10555,CUST1055,Paula Morton,Home,Vacuum Cleaner,4,967.15,3868.6,South,UPI,17-05-2026,13,3
+ORD10556,CUST1587,Kenneth Long,Home,Lamp,8,777.97,6223.76,North,Debit Card,14-05-2025,7,2
+ORD10557,CUST1563,Katherine Mooney,Books,Comics,8,834.25,6674,East,UPI,15-02-2025,8,1
+ORD10558,CUST1011,Michael Miller,Books,Comics,1,1333.73,1333.73,East,,18-06-2025,3,5
+ORD10559,CUST1298,Edward Holmes,Sports,Dumbbells,4,255.96,1023.84,East,Net Banking,03-12-2025,1,3
+ORD10560,CUST1414,Michael Sandoval,Books,Textbook,9,1331.17,11980.53,West,UPI,16-08-2025,11,2
+ORD10561,CUST1629,Mary Mccall,Electronics,Headphones,7,319.41,2235.87,East,UPI,18-07-2025,9,1
+ORD10562,CUST1812,Jessica Floyd,Home,Chair,3,1274.14,3822.42,South,Net Banking,08-03-2025,10,5
+ORD10563,CUST1096,Tamara Taylor,Home,Mixer,1,1384.66,1384.66,East,UPI,01-08-2025,14,1
+ORD10564,CUST1060,Rachael Miller,Sports,Dumbbells,5,1187.06,5935.3,North,UPI,23-03-2025,12,3
+ORD10565,CUST1018,Gary Barry,Clothing,T-Shirt,9,1387.19,12484.71,,Cash on Delivery,18-03-2026,9,1
+ORD10566,CUST1098,Adam Lester,Electronics,Laptop,3,503.19,1509.57,North,Credit Card,12-06-2025,13,4
+ORD10567,CUST1514,Christopher Underwood,Electronics,Laptop,7,799.01,5593.07,East,Debit Card,09-01-2026,5,4
+ORD10568,CUST1901,Steven Sullivan,Electronics,Smart Watch,1,533.57,533.57,South,UPI,12-07-2024,4,4
+ORD10569,CUST1942,John Ramos MD,Sports,Dumbbells,4,912.58,3650.32,South,UPI,13-02-2026,1,3
+ORD10570,CUST1712,Jason Pham,Home,Vacuum Cleaner,1,1403.04,1403.04,East,Cash on Delivery,24-09-2025,4,5
+ORD10571,CUST1541,Terry Berry,Clothing,Jeans,10,149.35,1493.5,West,Net Banking,18-05-2025,9,
+ORD10572,CUST1308,Chelsea Parrish,Home,Chair,4,1485.53,5942.12,West,Cash on Delivery,14-07-2024,7,1
+ORD10573,CUST1420,Christina Craig,Home,Vacuum Cleaner,4,382.98,1531.92,North,Credit Card,11-04-2026,11,1
+ORD10574,CUST1939,Bryan Walter,Home,Lamp,8,1100.25,8802,North,UPI,15-07-2025,7,3
+ORD10575,CUST1995,Terry Burns,Electronics,Smart Watch,8,1224.06,9792.48,South,Cash on Delivery,11-11-2024,7,1
+ORD10576,CUST1321,Heather Jenkins,Clothing,T-Shirt,8,1490.26,11922.08,South,Cash on Delivery,05-09-2024,11,3
+ORD10577,CUST1758,Shane Foster,Clothing,Jeans,1,1133.96,50000,North,Debit Card,20-02-2026,4,3
+ORD10578,CUST1128,David Johnson,Clothing,Shoes,5,1174,5870,North,Cash on Delivery,18-11-2024,6,3
+ORD10579,CUST1932,Rebecca Anderson,Books,Comics,8,815.23,6521.84,South,Net Banking,20-11-2024,8,1
+ORD10580,CUST1111,Joshua Smith,Electronics,Headphones,5,732.49,3662.45,South,Net Banking,06-07-2024,7,4
+ORD10581,CUST1775,Dale Lozano,Books,Comics,9,940.67,8466.03,East,Cash on Delivery,11-12-2025,2,
+ORD10582,CUST1837,Samantha Wallace,Books,Comics,6,419.78,2518.68,West,Debit Card,15-02-2026,7,1
+ORD10583,CUST1212,Anne Lewis,Home,Chair,7,393.12,2751.84,West,Cash on Delivery,27-05-2025,10,3
+ORD10584,CUST1162,Brent Jimenez,Sports,Yoga Mat,1,769.18,769.18,West,Cash on Delivery,10-07-2025,4,5
+ORD10585,CUST1189,Noah Taylor,Home,Mixer,3,578.21,1734.63,North,Net Banking,05-10-2024,13,4
+ORD10586,CUST1344,Kelsey Griffin,Home,Chair,7,667.99,4675.93,West,Cash on Delivery,01-05-2025,8,3
+ORD10587,CUST1923,Kimberly Martin,Sports,Yoga Mat,10,1220.12,12201.2,East,Credit Card,14-05-2026,6,5
+ORD10588,CUST1039,Cody Orr,Sports,Yoga Mat,7,445.38,3117.66,South,Net Banking,25-03-2025,11,3
+ORD10589,CUST1861,Sarah Fuentes,Clothing,Jacket,4,207.08,828.32,,Net Banking,12-11-2025,11,
+ORD10590,CUST1134,Julie Morris,Sports,Yoga Mat,8,274.03,2192.24,West,,08-11-2025,13,1
+ORD10591,CUST1595,Michelle Gonzalez,Sports,Yoga Mat,2,1494.14,2988.28,North,UPI,20-09-2025,13,3
+ORD10592,CUST1663,Barbara Cortez,Sports,Football,7,145.27,1016.89,South,UPI,21-03-2026,13,4
+ORD10593,CUST1170,Shane Richards,Books,Textbook,2,1212.56,2425.12,South,Credit Card,18-06-2025,2,2
+ORD10594,CUST1131,Lisa Barber,Electronics,Smartphone,2,414.44,828.88,South,UPI,01-10-2024,1,4
+ORD10595,CUST1723,Carol Taylor,Clothing,Shoes,8,361.31,2890.48,South,Net Banking,09-05-2026,4,4
+ORD10596,CUST1522,Sean Hammond,Clothing,Jeans,5,294.35,1471.75,North,Debit Card,09-07-2025,7,2
+ORD10597,CUST1086,Katherine Wall,Electronics,Smart Watch,8,485.87,3886.96,East,Debit Card,01-01-2026,13,
+ORD10598,CUST1918,Shelby Berger,Clothing,T-Shirt,10,794.96,7949.6,North,Cash on Delivery,21-06-2025,6,2
+ORD10599,CUST1006,John Bush,Sports,Cricket Bat,8,289.51,2316.08,East,UPI,07-02-2025,12,2
+ORD10600,CUST1464,Matthew Herman,Clothing,Shoes,6,260.4,1562.4,North,UPI,23-03-2026,11,2
+ORD10601,CUST1775,Courtney Evans,Books,Novel,1,246.19,246.19,South,Net Banking,12-11-2024,3,3
+ORD10602,CUST1973,Jeffrey Morales,Clothing,Shoes,7,328.11,2296.77,West,Debit Card,13-06-2024,11,4
+ORD10603,CUST1744,Amanda Lloyd,Electronics,Smartphone,2,1311.41,2622.82,South,UPI,03-04-2026,10,1
+ORD10604,CUST1993,Tiffany White,Sports,Yoga Mat,7,1430.56,10013.92,West,Net Banking,14-11-2025,5,1
+ORD10605,CUST1733,Danielle Bowman,Clothing,Jacket,6,15.79,94.74,West,Net Banking,30-05-2026,1,2
+ORD10606,CUST1654,Cynthia Fleming,Books,Comics,6,308.63,1851.78,South,Net Banking,03-01-2026,11,5
+ORD10607,CUST1724,Matthew Pugh,Sports,Football,2,954.83,1909.66,South,Debit Card,09-11-2024,12,2
+ORD10608,CUST1244,Tina Stone,Books,Textbook,5,765.56,3827.8,South,Net Banking,23-12-2024,9,3
+ORD10609,CUST1428,Jamie Carter,Home,Lamp,2,744.53,1489.06,North,Credit Card,25-06-2025,1,3
+ORD10610,CUST1856,Juan Smith,Home,Lamp,3,1272.77,3818.31,South,Debit Card,28-05-2025,14,3
+ORD10611,CUST1536,Maria Pham,Electronics,Smartphone,2,80.91,161.82,North,Cash on Delivery,14-06-2024,5,1
+ORD10612,CUST1223,Jeremy Hall,Electronics,Smart Watch,4,669.11,2676.44,,Cash on Delivery,11-08-2024,12,5
+ORD10613,CUST1221,Timothy White,Electronics,Smartphone,6,1228.4,7370.4,West,Credit Card,08-03-2025,1,4
+ORD10614,CUST1302,Patricia Torres,Clothing,T-Shirt,10,1453.09,14530.9,,Debit Card,15-09-2025,6,3
+ORD10615,CUST1864,Ann Drake,Books,Textbook,8,665.75,5326,North,Cash on Delivery,19-01-2026,4,2
+ORD10616,CUST1133,Dr. Rhonda Morton,Clothing,Jacket,9,162.46,1462.14,West,UPI,17-06-2025,8,2
+ORD10617,CUST1613,Joshua Campbell,Sports,Football,7,1450.81,10155.67,,Net Banking,02-03-2025,1,5
+ORD10618,CUST1402,Patrick Reyes,Sports,Football,3,442.15,1326.45,South,Debit Card,27-01-2025,7,5
+ORD10619,CUST1966,Kristi Wheeler,Home,Chair,5,747.63,3738.15,North,Cash on Delivery,05-04-2025,6,2
+ORD10620,CUST1871,Kevin Gill,Sports,Dumbbells,4,568.07,2272.28,South,Debit Card,14-05-2026,3,2
+ORD10621,CUST1845,Jessica Cervantes,Electronics,Smart Watch,10,934.1,9341,East,Cash on Delivery,30-10-2024,13,2
+ORD10622,CUST1011,Terri Mendoza,Electronics,Laptop,10,1033.45,10334.5,West,Cash on Delivery,25-08-2025,3,3
+ORD10623,CUST1777,Nathaniel Mcdaniel,Home,Mixer,9,696.59,6269.31,South,Cash on Delivery,18-08-2024,5,2
+ORD10624,CUST1555,Sarah Barton,Electronics,Laptop,2,415.12,830.24,,Debit Card,20-06-2025,6,2
+ORD10625,CUST1368,Matthew Williams,Sports,Dumbbells,7,177.39,1241.73,East,Credit Card,18-07-2024,14,1
+ORD10626,CUST1437,Nicholas Mcbride,Home,Chair,4,47.14,188.56,West,UPI,27-08-2025,9,3
+ORD10627,CUST1775,Mike Fisher,Electronics,Smartphone,1,911.34,911.34,South,Credit Card,28-07-2024,3,5
+ORD10628,CUST1138,Jared Adams,Sports,Cricket Bat,2,858.77,1717.54,North,Credit Card,29-12-2025,7,4
+ORD10629,CUST1599,Shannon Baldwin,Sports,Dumbbells,4,763.36,3053.44,North,Debit Card,20-12-2024,7,1
+ORD10630,CUST1833,Chelsea Larsen,Electronics,Laptop,4,230.16,920.64,North,Cash on Delivery,01-07-2025,12,2
+ORD10631,CUST1151,Sylvia Mitchell MD,Sports,Football,10,986.7,9867,North,Debit Card,14-09-2025,5,2
+ORD10632,CUST1275,Jennifer Robertson,Home,Vacuum Cleaner,4,353.34,1413.36,South,,15-10-2025,11,
+ORD10633,CUST1071,Morgan Dennis,Sports,Football,5,914.09,4570.45,South,UPI,20-08-2024,7,3
+ORD10634,CUST1737,Daniel Oneal,Clothing,T-Shirt,2,724.75,1449.5,West,Credit Card,09-11-2024,5,2
+ORD10635,CUST1228,Brandon Yang,Sports,Cricket Bat,7,419.54,2936.78,North,Net Banking,17-03-2026,8,2
+ORD10636,CUST1339,Sarah Roberts,Books,Textbook,1,1005.17,1005.17,East,Credit Card,13-12-2025,4,3
+ORD10637,CUST1952,David Anthony,Sports,Football,1,1272.59,1272.59,East,Credit Card,20-11-2024,5,2
+ORD10638,CUST1732,Kristine Roberts,Sports,Football,2,362.65,725.3,West,Net Banking,05-04-2026,13,2
+ORD10639,CUST1430,Jerry Wilson,Home,Chair,5,1045.83,5229.15,South,Cash on Delivery,09-03-2025,9,2
+ORD10640,CUST1036,Tonya Buchanan,Clothing,Jeans,9,800.93,7208.37,North,UPI,08-03-2026,10,3
+ORD10641,CUST1082,Jared Larson Jr.,Electronics,Laptop,3,869.25,2607.75,East,Cash on Delivery,27-03-2026,9,2
+ORD10642,CUST1541,Kyle Allen,Books,Magazine,1,1196.23,1196.23,East,Net Banking,22-09-2025,10,2
+ORD10643,CUST1406,Adam Wells,Electronics,Laptop,6,375.66,2253.96,South,UPI,27-03-2026,6,1
+ORD10644,CUST1685,Paula Campbell,Electronics,Smart Watch,2,1340.09,2680.18,North,Credit Card,02-01-2026,5,3
+ORD10645,CUST1249,Brittany Terry,Home,Chair,6,209.76,1258.56,East,UPI,09-03-2025,9,4
+ORD10646,CUST1638,Bailey Johnson,Home,Lamp,2,128.96,257.92,South,Debit Card,03-05-2026,1,1
+ORD10647,CUST1695,Laurie Moreno,Sports,Cricket Bat,5,1067.81,5339.05,East,Cash on Delivery,11-10-2025,4,1
+ORD10648,CUST1147,Nathan Webster,Sports,Football,1,315.38,315.38,South,UPI,13-04-2025,14,2
+ORD10649,CUST1222,Timothy James,Home,Vacuum Cleaner,5,123.67,618.35,South,UPI,09-10-2024,7,1
+ORD10650,CUST1295,Jennifer Hammond,Electronics,Smart Watch,1,1122.58,1122.58,North,UPI,14-10-2024,9,1
+ORD10651,CUST1132,Courtney Bell DVM,Electronics,Headphones,6,702.65,4215.9,West,UPI,20-10-2025,12,1
+ORD10652,CUST1979,Jeremy Gonzalez,Home,Chair,4,683.44,2733.76,West,Credit Card,11-10-2025,1,3
+ORD10653,CUST1807,Steven Harris,Clothing,Jacket,4,714.81,2859.24,East,Net Banking,06-02-2025,1,4
+ORD10654,CUST1986,Melissa Martinez,Electronics,Laptop,4,1386.51,5546.04,North,,17-01-2026,1,3
+ORD10655,CUST1265,Lori Ward,Books,Comics,8,1047.73,8381.84,South,Debit Card,16-04-2026,2,4
+ORD10656,CUST1061,Mark Riddle,Home,Lamp,1,752.52,752.52,North,Cash on Delivery,21-04-2026,10,4
+ORD10657,CUST1979,Allison Lee,Sports,Yoga Mat,9,502.58,4523.22,West,Net Banking,08-11-2025,13,5
+ORD10658,CUST1137,Samantha Obrien,Books,Textbook,6,37.37,224.22,South,Debit Card,19-07-2024,4,4
+ORD10659,CUST1092,Brenda Zhang,Books,Textbook,10,1177.71,11777.1,North,Credit Card,20-03-2026,3,1
+ORD10660,CUST1371,Jody Ware,Clothing,T-Shirt,7,726.74,5087.18,East,UPI,23-07-2024,8,1
+ORD10661,CUST1485,Christine Miller,Sports,Yoga Mat,7,1023.37,7163.59,South,UPI,04-08-2025,8,5
+ORD10662,CUST1059,Andrea Walker,Clothing,Jacket,9,50.8,457.2,North,Debit Card,17-11-2025,7,5
+ORD10663,CUST1052,Javier Jefferson,Clothing,Jacket,3,402.19,1206.57,East,Net Banking,22-02-2026,7,4
+ORD10664,CUST1625,Larry Robinson,Home,Lamp,4,1044.9,4179.6,North,Net Banking,20-11-2025,8,5
+ORD10665,CUST1741,Julie Armstrong,Sports,Yoga Mat,5,262.13,1310.65,East,Net Banking,06-08-2024,3,4
+ORD10666,CUST1624,Victor Wang,Electronics,Smart Watch,8,1138.82,9110.56,West,Credit Card,27-07-2025,1,5
+ORD10667,CUST1486,Paul Mason,Electronics,Headphones,7,785.34,5497.38,West,UPI,24-11-2025,7,1
+ORD10668,CUST1070,Andre Lynch,Clothing,Jacket,3,879.43,2638.29,South,Net Banking,22-09-2024,11,2
+ORD10669,CUST1850,Brett Rivera,Electronics,Headphones,3,588.88,1766.64,South,Credit Card,28-08-2025,5,5
+ORD10670,CUST1982,Rachel Watkins,Electronics,Headphones,6,1465.18,8791.08,East,Cash on Delivery,13-03-2026,12,4
+ORD10671,CUST1150,Andrew Gonzales,Home,Vacuum Cleaner,3,985.34,2956.02,West,Cash on Delivery,09-05-2025,4,4
+ORD10672,CUST1251,Randall Rodriguez,Books,Magazine,5,76.45,382.25,North,Net Banking,28-08-2024,11,1
+ORD10673,CUST1768,Jeremy Garcia,Home,Lamp,1,1392.19,1392.19,West,Net Banking,10-12-2025,6,3
+ORD10674,CUST1253,Amanda Schultz,Electronics,Laptop,4,1444.17,5776.68,East,Net Banking,30-10-2024,6,4
+ORD10675,CUST1300,Dennis Delgado,Clothing,Shoes,9,267.06,2403.54,,Debit Card,03-04-2026,5,5
+ORD10676,CUST1821,Keith Taylor,Clothing,Jeans,9,774.62,6971.58,West,Debit Card,23-08-2024,12,1
+ORD10677,CUST1050,Allison Stewart,Clothing,T-Shirt,2,820.35,1640.7,South,UPI,26-09-2025,6,2
+ORD10678,CUST1475,Christopher Martinez,Electronics,Smart Watch,2,304.6,609.2,West,UPI,28-01-2025,6,4
+ORD10679,CUST1369,Carolyn Elliott,Home,Lamp,8,1161.96,9295.68,West,Cash on Delivery,25-07-2025,3,4
+ORD10680,CUST1560,Joe Graves,Books,Comics,5,1180.11,5900.55,South,Credit Card,13-12-2025,12,1
+ORD10681,CUST1558,Brian Mckenzie,Electronics,Smartphone,4,150.42,601.68,North,Cash on Delivery,14-09-2025,10,1
+ORD10682,CUST1945,Charles Roy,Books,Comics,9,201,1809,East,Net Banking,03-04-2025,8,4
+ORD10683,CUST1134,Carolyn Church,electronics,Chair,7,996.25,6973.75,South,UPI,15-08-2025,14,3
+ORD10684,CUST1872,James Goodman,Books,Textbook,2,331.22,662.44,West,Credit Card,06-12-2025,14,5
+ORD10685,CUST1907,Kimberly Arroyo,Electronics,Headphones,3,554.99,1664.97,West,Net Banking,04-12-2025,10,2
+ORD10686,CUST1201,Melanie Baxter,Books,Textbook,4,1266.53,5066.12,North,Net Banking,13-04-2026,1,1
+ORD10687,CUST1561,Stephanie Andrews,Electronics,Smartphone,2,288.41,576.82,North,Credit Card,16-12-2025,6,5
+ORD10688,CUST1729,Tiffany White,Electronics,Smartphone,2,99.57,199.14,West,Credit Card,06-02-2025,4,3
+ORD10689,CUST1899,Brian Brown,Home,Mixer,2,1230.35,2460.7,West,Debit Card,14-09-2024,9,5
+ORD10690,CUST1544,Danielle Smith,Books,Comics,9,1475.8,13282.2,South,UPI,31-10-2025,9,1
+ORD10691,CUST1129,Taylor Burgess,Sports,Football,1,1261.25,1261.25,North,Debit Card,25-07-2025,2,2
+ORD10692,CUST1787,Doris Miller,Electronics,Headphones,7,625.95,4381.65,East,Debit Card,24-12-2024,10,1
+ORD10693,CUST1901,Tyler Hernandez,Books,Textbook,7,1248.94,8742.58,South,Credit Card,10-02-2026,11,4
+ORD10694,CUST1749,Madison Singh,Books,Novel,8,1447.11,11576.88,North,Credit Card,16-10-2024,3,1
+ORD10695,CUST1791,David Ross,Electronics,Smart Watch,7,515.13,3605.91,South,Debit Card,29-01-2025,10,3
+ORD10696,CUST1066,Kyle Alexander,Home,Vacuum Cleaner,1,158.89,158.89,North,Credit Card,25-01-2025,9,2
+ORD10697,CUST1548,Kristine Klein,Electronics,Headphones,9,1279.83,11518.47,East,Cash on Delivery,14-10-2024,2,5
+ORD10698,CUST1262,Samantha Gonzalez,Electronics,Smart Watch,2,1352.54,2705.08,South,,14-08-2024,11,2
+ORD10699,CUST1169,Eric Edwards,Sports,Yoga Mat,3,1230.37,3691.11,South,Net Banking,16-02-2026,4,2
+ORD10700,CUST1018,Brian Wilson,Clothing,Shoes,6,196.64,1179.84,South,Credit Card,05-07-2024,8,4
+ORD10701,CUST1463,Laura Jordan,Books,Comics,6,333.59,2001.54,North,Net Banking,01-04-2025,1,3
+ORD10702,CUST1146,Stacey Nichols,Home,Mixer,4,319.24,1276.96,East,Debit Card,26-11-2025,7,2
+ORD10703,CUST1534,Herbert Ross,Home,Lamp,1,1177.9,1177.9,West,Cash on Delivery,09-05-2026,4,4
+ORD10704,CUST1902,Brittany Wilson,Books,Comics,4,1197.85,4791.4,East,Cash on Delivery,18-08-2024,6,4
+ORD10705,CUST1597,Shelly Vasquez,Sports,Football,4,1473.43,5893.72,East,Credit Card,18-01-2025,14,2
+ORD10706,CUST1434,Robert Hansen,Electronics,Headphones,6,716.04,4296.24,East,UPI,23-04-2026,4,1
+ORD10707,CUST1228,Mr. Robert Pierce,Books,Comics,9,1410.15,12691.35,East,Cash on Delivery,06-09-2025,14,1
+ORD10708,CUST1586,Adam Taylor,Sports,Cricket Bat,7,220.15,1541.05,South,,20-12-2024,13,4
+ORD10709,CUST1078,James Johnston,Clothing,T-Shirt,7,269.52,1886.64,East,UPI,23-06-2024,3,1
+ORD10710,CUST1899,Diana Coleman,Clothing,Jeans,6,1421.92,8531.52,West,Debit Card,30-01-2026,6,3
+ORD10711,CUST1986,Samuel Hartman,Home,Vacuum Cleaner,2,1458.04,2916.08,North,Debit Card,11-05-2026,8,5
+ORD10712,CUST1826,Bryan Jones,Sports,Football,4,751.9,99000,North,Net Banking,24-11-2024,11,5
+ORD10713,CUST1284,Mr. Charles Robinson,Sports,Football,6,297.84,1787.04,,UPI,30-11-2025,8,1
+ORD10714,CUST1566,Dylan Jackson,Sports,Cricket Bat,9,722.57,6503.13,,Net Banking,30-06-2024,9,4
+ORD10715,CUST1431,Kathleen Kennedy,Home,Mixer,7,1418.26,9927.82,West,Credit Card,24-10-2025,12,1
+ORD10716,CUST1867,Joann Davis,Sports,Cricket Bat,3,22.31,66.93,West,Cash on Delivery,28-11-2025,14,2
+ORD10717,CUST1349,Jasmine Jordan,Clothing,Shoes,1,1206.65,1206.65,West,UPI,14-08-2024,10,5
+ORD10718,CUST1136,Jenna Greene,Clothing,T-Shirt,1,707.04,707.04,North,Cash on Delivery,20-05-2026,8,5
+ORD10719,CUST1772,Gregory Turner,Books,Textbook,6,619.84,3719.04,East,UPI,05-08-2024,12,3
+ORD10720,CUST1418,John Quinn,Electronics,Headphones,8,272.04,2176.32,East,UPI,30-08-2024,2,4
+ORD10721,CUST1078,Carol Martin,Clothing,T-Shirt,4,905.23,3620.92,North,Credit Card,16-08-2025,7,2
+ORD10722,CUST1983,Daniel Washington,Books,Novel,7,1152.17,8065.19,West,Cash on Delivery,30-11-2025,5,4
+ORD10723,CUST1320,Charles Smith,Home,Vacuum Cleaner,2,1095.12,2190.24,East,Cash on Delivery,20-07-2025,7,5
+ORD10724,CUST1137,Eric Bartlett,Electronics,Laptop,2,742.17,1484.34,South,Credit Card,03-11-2024,14,5
+ORD10725,CUST1802,Christopher Cherry,Clothing,Jacket,7,564.42,3950.94,West,Debit Card,07-03-2025,4,5
+ORD10726,CUST1720,Amanda Mccarthy,Sports,Yoga Mat,5,1429.72,7148.6,East,Debit Card,30-03-2025,7,4
+ORD10727,CUST1512,Roy Figueroa,Sports,Football,7,1135.78,7950.46,East,Cash on Delivery,17-10-2025,14,5
+ORD10728,CUST1187,Shannon Hall,Sports,Dumbbells,7,1271.69,8901.83,South,Debit Card,06-07-2024,13,5
+ORD10729,CUST1066,Alicia Torres,Electronics,Smartphone,8,16.47,131.76,West,Cash on Delivery,31-10-2025,6,5
+ORD10730,CUST1483,Tanya Huber,Clothing,Jeans,5,940.59,4702.95,West,Cash on Delivery,06-06-2024,6,4
+ORD10731,CUST1516,Bruce Landry,Sports,Football,9,787.73,7089.57,West,Credit Card,18-08-2024,3,5
+ORD10732,CUST1987,Katherine Fleming,Home,Mixer,3,702.04,2106.12,East,UPI,01-02-2026,4,2
+ORD10733,CUST1153,Shannon Stafford,Home,Lamp,10,1075.55,10755.5,South,Debit Card,06-06-2024,6,1
+ORD10734,CUST1245,Tony Fisher,Home,Chair,6,405.66,2433.96,East,Cash on Delivery,30-08-2025,5,4
+ORD10735,CUST1374,Dominic Mack,Home,Chair,2,883.15,1766.3,South,Net Banking,31-07-2025,9,2
+ORD10736,CUST1359,Mrs. Tammy Mitchell,Sports,Dumbbells,6,1234.44,7406.64,East,UPI,14-03-2026,11,1
+ORD10737,CUST1399,Robert Barron,Home,Vacuum Cleaner,2,1008.51,2017.02,West,Net Banking,15-05-2025,3,2
+ORD10738,CUST1396,Ann Robinson,Home,Chair,10,437.89,4378.9,West,Debit Card,08-12-2024,5,1
+ORD10739,CUST1604,Tyler Briggs,Clothing,Jeans,4,461.81,1847.24,East,,07-07-2024,8,2
+ORD10740,CUST1522,Larry Park,Electronics,Smart Watch,7,1039.64,7277.48,North,Debit Card,26-05-2026,13,1
+ORD10741,CUST1490,Nathan Vasquez,Books,Comics,3,1176.78,3530.34,East,Net Banking,16-02-2026,5,2
+ORD10742,CUST1752,Steven Smith MD,Home,Vacuum Cleaner,8,290.53,2324.24,,Debit Card,29-07-2025,12,4
+ORD10743,CUST1932,Robert Weiss,Clothing,Jeans,8,516.99,4135.92,West,Net Banking,03-04-2025,3,3
+ORD10744,CUST1357,Omar Porter,Sports,Football,2,1164.11,2328.22,South,Cash on Delivery,29-08-2024,9,5
+ORD10745,CUST1730,Luke Cooper,Sports,Yoga Mat,2,85.74,171.48,North,Cash on Delivery,24-04-2025,5,1
+ORD10746,CUST1265,Monique Johnson,Home,Chair,7,978.8,6851.6,West,UPI,31-10-2025,9,1
+ORD10747,CUST1467,Erin Ortiz,Clothing,Jeans,10,203.95,2039.5,North,Net Banking,01-10-2025,13,4
+ORD10748,CUST1588,Douglas Barber,Home,Lamp,2,119.16,238.32,North,Net Banking,06-09-2025,13,5
+ORD10749,CUST1972,Ashley Skinner,Home,Mixer,9,845.13,7606.17,East,Credit Card,23-05-2025,12,2
+ORD10750,CUST1721,Stefanie Weaver,Clothing,T-Shirt,1,32.22,32.22,North,Cash on Delivery,15-11-2025,1,3
+ORD10751,CUST1256,Mary Turner,Home,Mixer,5,19.91,99.55,East,UPI,03-06-2024,7,5
+ORD10752,CUST1993,Edward Bailey,Clothing,Jeans,2,1114.19,2228.38,South,Credit Card,16-09-2024,2,5
+ORD10753,CUST1567,Kathy Taylor,Sports,Football,6,691.94,4151.64,East,,08-05-2026,8,5
+ORD10754,CUST1213,Charles Garcia,Home,Chair,2,235.82,471.64,West,UPI,23-06-2025,10,5
+ORD10755,CUST1606,Laura Clements,Clothing,Jeans,9,531.54,4783.86,West,Cash on Delivery,30-05-2026,9,2
+ORD10756,CUST1190,James Johnson,Sports,Dumbbells,7,1041.57,7290.99,East,Cash on Delivery,30-07-2024,12,3
+ORD10757,CUST1488,Roy Cervantes,Clothing,Jacket,5,864.91,4324.55,West,UPI,14-03-2026,8,3
+ORD10758,CUST1452,Angela Murray,Electronics,Laptop,3,1455.53,4366.59,East,Debit Card,24-01-2025,12,5
+ORD10759,CUST1626,Jack Brady,Home,Mixer,10,81.85,818.5,East,UPI,17-09-2024,10,4
+ORD10760,CUST1563,Jacqueline Edwards,Electronics,Smart Watch,2,417.16,834.32,North,UPI,31-01-2025,11,5
+ORD10761,CUST1308,Lauren Hall,Home,Lamp,4,733.84,2935.36,North,Debit Card,01-11-2025,8,1
+ORD10762,CUST1443,Joshua Ballard,Home,Chair,2,600.16,1200.32,East,UPI,18-11-2024,11,2
+ORD10763,CUST1601,Maria Harper,Electronics,Smartphone,9,968.12,8713.08,North,Credit Card,23-03-2026,3,2
+ORD10764,CUST1908,Christopher Montoya,Sports,Yoga Mat,6,1234.46,7406.76,North,Cash on Delivery,16-05-2026,14,4
+ORD10765,CUST1608,Sergio Patrick,Clothing,Shoes,2,1188.88,2377.76,East,Credit Card,30-10-2025,10,4
+ORD10766,CUST1803,Brittany Carter,Books,Novel,4,918.23,3672.92,West,Net Banking,16-05-2025,4,4
+ORD10767,CUST1084,Jonathan Fisher,Books,Novel,7,1051.41,7359.87,East,Credit Card,06-10-2025,1,2
+ORD10768,CUST1874,John Cruz,Books,Comics,3,1114.88,3344.64,West,Cash on Delivery,08-10-2025,7,1
+ORD10769,CUST1635,Andrew Raymond,Electronics,Headphones,8,424.2,3393.6,West,Net Banking,02-12-2025,7,2
+ORD10770,CUST1546,Tammy Garcia,Sports,Dumbbells,6,206.43,1238.58,South,Cash on Delivery,02-04-2026,5,5
+ORD10771,CUST1987,Jessica Wilson,Home,Chair,10,1439.46,14394.6,East,UPI,30-07-2025,3,5
+ORD10772,CUST1941,Ashley Williams,Books,Magazine,1,613.86,613.86,East,Credit Card,03-06-2026,8,2
+ORD10773,CUST1532,Dr. Mary Harvey,Home,Mixer,8,1437.73,11501.84,East,Credit Card,16-05-2025,9,1
+ORD10774,CUST1857,Sharon Black,Clothing,Shoes,3,1481.68,4445.04,North,Net Banking,19-05-2026,11,5
+ORD10775,CUST1742,Trevor Brown,Home,Lamp,6,529.85,3179.1,West,Net Banking,10-09-2024,7,4
+ORD10776,CUST1181,Ariel Hahn,Home,Mixer,9,1011.5,9103.5,East,,28-11-2025,10,1
+ORD10777,CUST1839,Felicia Owens,Electronics,Headphones,8,807.74,6461.92,West,Cash on Delivery,23-03-2026,1,3
+ORD10778,CUST1510,Brandon Fitzpatrick,Electronics,Smartphone,9,316.66,2849.94,South,Credit Card,02-02-2026,5,2
+ORD10779,CUST1123,Emily Peters,Sports,Yoga Mat,9,1270.77,11436.93,North,Net Banking,22-10-2025,13,4
+ORD10780,CUST1295,Kristin Combs,Electronics,Laptop,1,780.66,780.66,West,Debit Card,25-08-2024,10,1
+ORD10781,CUST1209,Michael Rivera,Electronics,Headphones,3,669.4,2008.2,South,Debit Card,05-09-2024,9,4
+ORD10782,CUST1571,Lance Bell,Clothing,T-Shirt,10,1263.56,12635.6,East,Net Banking,13-12-2025,7,3
+ORD10783,CUST1231,Victoria Fry,Sports,Dumbbells,2,267.95,95000,East,Debit Card,11-11-2024,2,5
+ORD10784,CUST1706,Cole Soto,Clothing,T-Shirt,2,435.58,871.16,South,Debit Card,14-04-2026,8,5
+ORD10785,CUST1345,Robert Norris,Electronics,Smartphone,6,180.89,1085.34,South,UPI,10-10-2024,4,1
+ORD10786,CUST1033,Sean Walls,Books,Comics,8,1251.42,10011.36,West,Net Banking,15-10-2025,12,3
+ORD10787,CUST1419,Dennis Harrison,Books,Comics,9,316.43,2847.87,West,Credit Card,24-10-2024,6,2
+ORD10788,CUST1978,Connor Lee,Books,Magazine,4,830.76,3323.04,South,UPI,03-04-2025,7,
+ORD10789,CUST1801,Marc Harris,Sports,Dumbbells,4,467.3,1869.2,West,UPI,18-12-2024,6,4
+ORD10790,CUST1565,Diana Parker,Electronics,Smart Watch,6,140.35,842.1,South,UPI,27-09-2024,12,3
+ORD10791,CUST1212,Jessica Daniels,Home,Chair,4,684.19,2736.76,West,Cash on Delivery,24-01-2026,9,4
+ORD10792,CUST1556,Brian Hebert,Clothing,Jacket,2,437.32,874.64,North,Cash on Delivery,31-10-2025,5,5
+ORD10793,CUST1939,Amy Franklin,Home,Mixer,9,1116.64,10049.76,West,Cash on Delivery,10-05-2026,13,5
+ORD10794,CUST1518,Joel Williams,Home,Mixer,5,309.09,1545.45,North,Cash on Delivery,21-02-2026,8,1
+ORD10795,CUST1130,Doris Larson,Books,Novel,6,71.18,427.08,West,UPI,25-11-2025,5,
+ORD10796,CUST1896,Michael Schultz,electronics,Textbook,1,902.38,902.38,East,UPI,25-11-2025,10,1
+ORD10797,CUST1631,Dr. David Martinez,Sports,Dumbbells,9,318.19,2863.71,West,Credit Card,13-05-2025,2,3
+ORD10798,CUST1544,Jessica Moran,Books,Magazine,10,1218.89,12188.9,North,UPI,16-12-2025,12,1
+ORD10799,CUST1224,Kathleen Brown,Books,Comics,6,1400.48,8402.88,South,Credit Card,26-01-2025,11,5
+ORD10800,CUST1338,Renee Johnson,Sports,Cricket Bat,3,1151.95,3455.85,,,12-11-2025,10,1
+ORD10801,CUST1106,Madeline Espinoza,Clothing,Jacket,2,526.61,1053.22,South,,22-04-2026,6,4
+ORD10802,CUST1413,Gina Williams,Home,Vacuum Cleaner,3,354.79,1064.37,West,Net Banking,25-07-2025,3,4
+ORD10803,CUST1585,Linda Chung,Sports,Yoga Mat,1,491.39,491.39,West,UPI,25-07-2024,10,3
+ORD10804,CUST1908,Jennifer Wilkins,Books,Comics,9,1073.63,9662.67,West,UPI,25-01-2025,1,5
+ORD10805,CUST1800,Julie Thomas,Electronics,Headphones,8,170.38,1363.04,South,UPI,28-07-2024,1,2
+ORD10806,CUST1673,Patrick Small,Books,Magazine,9,428.74,3858.66,East,Debit Card,20-08-2024,1,4
+ORD10807,CUST1295,Amy Smith,Home,Mixer,5,588.16,2940.8,South,UPI,11-11-2025,6,5
+ORD10808,CUST1321,Michele Reynolds,Books,Novel,8,510.7,4085.6,East,Cash on Delivery,18-08-2025,9,4
+ORD10809,CUST1157,Alexandra Fisher,Home,Chair,7,1089.71,7627.97,North,UPI,27-04-2025,2,4
+ORD10810,CUST1925,Dan Potter,Books,Comics,8,788.51,6308.08,West,Credit Card,08-10-2024,14,5
+ORD10811,CUST1783,Mr. John Tanner,Clothing,Shoes,1,483.93,483.93,West,UPI,11-01-2026,11,1
+ORD10812,CUST1813,Joseph Romero,Sports,Dumbbells,7,604.84,4233.88,North,Net Banking,19-08-2024,11,2
+ORD10813,CUST1770,David Leon,Electronics,Headphones,9,589.33,5303.97,West,Cash on Delivery,07-10-2025,4,1
+ORD10814,CUST1199,Stephanie Whitaker,Books,Novel,7,967.36,6771.52,South,Cash on Delivery,03-12-2024,6,3
+ORD10815,CUST1098,Angelica Torres,Sports,Dumbbells,1,1168.49,1168.49,North,Cash on Delivery,06-07-2025,6,1
+ORD10816,CUST1220,Sean Roach,Home,Vacuum Cleaner,8,102.91,823.28,North,UPI,03-08-2024,12,5
+ORD10817,CUST1265,Amanda Brown,Electronics,Laptop,8,1454.05,11632.4,North,Debit Card,03-03-2025,8,5
+ORD10818,CUST1995,Joseph Thomas,Books,Novel,6,267.99,1607.94,South,Credit Card,13-08-2024,13,4
+ORD10819,CUST1836,Shelby Scott,electronics,T-Shirt,6,1270.82,7624.92,West,Debit Card,22-08-2025,5,
+ORD10820,CUST1257,Nicole Simpson,Home,Chair,10,824.67,8246.7,West,Credit Card,18-05-2025,14,2
+ORD10821,CUST1648,Stefanie Johnson,Books,Novel,7,1345.94,9421.58,West,Debit Card,13-03-2025,14,3
+ORD10822,CUST1200,Michael Patrick,Sports,Cricket Bat,2,32.48,64.96,West,UPI,13-04-2025,7,4
+ORD10823,CUST1453,Jennifer Scott,Books,Comics,7,1259.94,8819.58,West,Credit Card,12-02-2026,6,2
+ORD10824,CUST1803,Dana Ingram,Sports,Football,7,280.8,1965.6,South,Cash on Delivery,26-06-2025,3,2
+ORD10825,CUST1889,Anthony Morgan,Sports,Dumbbells,3,188.27,564.81,North,Credit Card,16-09-2024,9,2
+ORD10826,CUST1870,Jordan Garner,Sports,Cricket Bat,7,491.2,3438.4,West,Cash on Delivery,19-09-2024,7,2
+ORD10827,CUST1966,Victoria Williams,Books,Textbook,8,1362.59,10900.72,South,Net Banking,11-08-2025,3,2
+ORD10828,CUST1403,Antonio Thomas,Electronics,Laptop,7,201.65,1411.55,South,Cash on Delivery,24-02-2026,2,4
+ORD10829,CUST1390,Susan Smith,Home,Chair,3,1459.92,4379.76,North,Net Banking,28-03-2026,2,5
+ORD10830,CUST1178,Monica Fields,Clothing,Jeans,1,215.39,215.39,West,Credit Card,04-07-2025,5,5
+ORD10831,CUST1455,Courtney Petty,Electronics,Smart Watch,4,1106.87,4427.48,South,Net Banking,26-09-2025,1,3
+ORD10832,CUST1107,Andrea Glenn,Home,Chair,5,1136.32,5681.6,South,UPI,09-05-2025,5,1
+ORD10833,CUST1268,Melanie Sharp,Electronics,Headphones,5,1106.93,5534.65,North,Debit Card,10-06-2024,11,4
+ORD10834,CUST1221,Karen Vazquez,Home,Lamp,8,276.82,2214.56,West,Net Banking,08-02-2026,1,4
+ORD10835,CUST1009,Denise Byrd,Electronics,Laptop,6,484.73,2908.38,,UPI,07-08-2024,14,5
+ORD10836,CUST1808,Kimberly Gilbert,Sports,Football,10,980.99,9809.9,North,UPI,20-02-2025,2,5
+ORD10837,CUST1597,Erin James,Electronics,Smart Watch,9,1272.23,11450.07,North,Debit Card,03-09-2025,7,1
+ORD10838,CUST1580,Ryan Mclaughlin,Electronics,Headphones,2,536.48,1072.96,West,Cash on Delivery,20-02-2025,9,1
+ORD10839,CUST1861,Amy Garcia,Home,Mixer,9,1377.01,12393.09,North,Net Banking,05-06-2024,3,1
+ORD10840,CUST1215,Chelsey Dixon,Home,Chair,4,503.99,2015.96,South,,05-12-2024,5,1
+ORD10841,CUST1343,Charles Wilson,Clothing,Shoes,10,1169.95,11699.5,South,Net Banking,06-07-2024,3,1
+ORD10842,CUST1238,Alexis Shaw,Books,Textbook,1,1372.56,1372.56,West,,02-03-2025,11,4
+ORD10843,CUST1383,Jack Ferguson,Home,Mixer,2,250.5,501,North,Debit Card,05-04-2025,8,3
+ORD10844,CUST1669,Casey Lindsey,Electronics,Headphones,8,872.52,6980.16,West,Debit Card,29-07-2024,11,5
+ORD10845,CUST1374,John Cruz,Clothing,Jacket,10,1065.17,10651.7,West,Debit Card,04-09-2024,4,3
+ORD10846,CUST1562,Michael Fletcher,Electronics,Headphones,9,866.4,7797.6,South,Debit Card,13-01-2026,8,5
+ORD10847,CUST1682,Deborah Boone,Clothing,T-Shirt,4,1231.77,4927.08,North,Credit Card,30-11-2025,3,2
+ORD10848,CUST1310,Andrea Schneider,Clothing,Jacket,1,1492.81,1492.81,South,Cash on Delivery,05-10-2024,1,3
+ORD10849,CUST1347,Thomas Nixon,Clothing,Jacket,5,469.33,2346.65,South,Net Banking,19-10-2024,4,3
+ORD10850,CUST1750,Jennifer Robertson,Home,Lamp,8,197.41,1579.28,West,UPI,12-02-2026,11,5
+ORD10851,CUST1876,Christopher House,Books,Comics,7,612.27,4285.89,North,Credit Card,09-05-2025,11,3
+ORD10852,CUST1516,Marcus Romero,Sports,Yoga Mat,7,359.24,2514.68,East,UPI,19-01-2026,2,4
+ORD10853,CUST1677,Emily Mclaughlin,Home,Chair,4,807.77,3231.08,North,Net Banking,16-10-2025,14,
+ORD10854,CUST1035,Wendy Heath,Home,Mixer,9,379.03,3411.27,West,Credit Card,09-07-2024,14,1
+ORD10855,CUST1349,Maria Bennett,Sports,Yoga Mat,8,445.87,3566.96,West,Debit Card,11-03-2025,8,5
+ORD10856,CUST1326,Lauren Thomas,Electronics,Headphones,10,518.67,5186.7,South,Cash on Delivery,10-03-2026,8,1
+ORD10857,CUST1594,Deborah Hopkins,Home,Vacuum Cleaner,1,1331.87,1331.87,East,,15-06-2024,2,3
+ORD10858,CUST1468,Jacob Bishop,Home,Mixer,6,381.68,2290.08,North,Debit Card,09-05-2025,10,2
+ORD10859,CUST1155,George Miller,Clothing,T-Shirt,1,1497.11,1497.11,North,Credit Card,18-03-2026,6,1
+ORD10860,CUST1554,Scott Fischer,Books,Novel,2,1107.72,2215.44,South,Cash on Delivery,05-09-2025,8,3
+ORD10861,CUST1048,Trevor King,Electronics,Smart Watch,10,195.48,1954.8,East,Credit Card,25-12-2024,12,5
+ORD10862,CUST1657,Kathryn Estes,Sports,Football,8,354.26,2834.08,North,UPI,29-01-2026,13,2
+ORD10863,CUST1793,Jordan Armstrong,electronics,Magazine,9,728.3,6554.7,North,Net Banking,12-12-2025,12,1
+ORD10864,CUST1625,Michael Thornton,Books,Novel,2,415.34,830.68,North,UPI,26-10-2024,6,2
+ORD10865,CUST1522,Regina Pena,Electronics,Laptop,6,536.52,3219.12,South,Cash on Delivery,15-01-2026,9,2
+ORD10866,CUST1426,Amanda Cameron,Home,Chair,5,291.6,1458,West,UPI,13-11-2024,3,5
+ORD10867,CUST1936,Caitlin Cooper,Clothing,Shoes,5,1170.61,5853.05,West,Cash on Delivery,12-05-2025,13,2
+ORD10868,CUST1653,Joel Merritt,Electronics,Headphones,8,630.57,5044.56,North,UPI,26-01-2026,11,4
+ORD10869,CUST1391,William Forbes,Books,Novel,7,603.72,4226.04,South,Net Banking,31-05-2026,5,2
+ORD10870,CUST1471,Shelly Drake,Books,Comics,8,1193.74,9549.92,South,Credit Card,16-12-2025,9,3
+ORD10871,CUST1518,Daniel Williams,electronics,Yoga Mat,2,982.95,1965.9,East,Credit Card,27-02-2025,5,2
+ORD10872,CUST1010,James Hart,Electronics,Smartphone,6,457.62,2745.72,West,Cash on Delivery,12-10-2025,2,1
+ORD10873,CUST1203,Evelyn Graves,Electronics,Headphones,4,1490.47,5961.88,West,Debit Card,04-08-2025,7,5
+ORD10874,CUST1600,Corey Hunter,electronics,Smart Watch,8,33.94,271.52,West,Cash on Delivery,01-03-2026,11,5
+ORD10875,CUST1471,Carol Anderson,Clothing,Shoes,6,474.3,2845.8,East,UPI,14-10-2024,2,5
+ORD10876,CUST1927,Teresa Howard,Sports,Yoga Mat,8,1036.96,8295.68,North,UPI,02-12-2025,9,2
+ORD10877,CUST1582,Latoya Campos,Home,Chair,2,779.03,1558.06,East,Credit Card,06-02-2026,2,4
+ORD10878,CUST1916,Eric Smith,Clothing,Jeans,9,318.42,2865.78,North,Net Banking,23-10-2025,14,5
+ORD10879,CUST1697,Brooke Cochran,Home,Chair,8,1156.7,9253.6,North,UPI,01-06-2025,14,1
+ORD10880,CUST1754,Mark Allen,Clothing,Shoes,3,122.56,367.68,South,Cash on Delivery,23-01-2025,6,4
+ORD10881,CUST1252,Thomas Weaver,Electronics,Laptop,5,282.85,1414.25,East,Credit Card,14-12-2024,10,3
+ORD10882,CUST1373,Daniel Spencer,Sports,Yoga Mat,1,629.58,629.58,South,Cash on Delivery,06-08-2025,10,1
+ORD10883,CUST1550,Emily Galvan,Clothing,Shoes,8,54.01,432.08,West,UPI,09-09-2025,4,2
+ORD10884,CUST1571,Matthew Evans,Books,Novel,7,1088.05,7616.35,South,Credit Card,16-12-2025,12,3
+ORD10885,CUST1543,Drew Edwards,Electronics,Smartphone,3,39.42,118.26,West,Debit Card,12-10-2024,2,4
+ORD10886,CUST1968,Donna Vega,Books,Textbook,2,86.42,172.84,South,Net Banking,11-08-2024,5,1
+ORD10887,CUST1194,Katherine Wilson,Books,Novel,5,486.19,2430.95,East,Net Banking,13-07-2024,2,3
+ORD10888,CUST1877,David Pugh,Clothing,T-Shirt,10,126.66,1266.6,East,UPI,29-07-2025,5,5
+ORD10889,CUST1809,Paul Olson,Home,Mixer,8,1015.59,8124.72,East,Net Banking,29-07-2025,1,3
+ORD10890,CUST1641,Mitchell Williams,Books,Novel,5,1234.22,6171.1,North,Net Banking,04-03-2025,6,3
+ORD10891,CUST1082,Carol Olson,Sports,Dumbbells,5,699.77,3498.85,West,Net Banking,26-01-2025,10,5
+ORD10892,CUST1830,Angela Hill,Sports,Dumbbells,7,88.39,618.73,West,Cash on Delivery,22-11-2024,9,1
+ORD10893,CUST1855,Karen Hunter,Sports,Cricket Bat,5,55.46,277.3,West,Cash on Delivery,11-06-2025,8,1
+ORD10894,CUST1481,Oscar Smith,Sports,Cricket Bat,10,145.67,1456.7,North,Cash on Delivery,23-06-2025,9,
+ORD10895,CUST1300,Oscar Lewis,Books,Novel,10,1207.01,12070.1,North,Credit Card,16-01-2026,5,4
+ORD10896,CUST1681,Rachel Herrera,Sports,Yoga Mat,6,1241.82,7450.92,East,Credit Card,31-07-2025,7,1
+ORD10897,CUST1380,Brenda Diaz,Electronics,Headphones,10,1118.26,11182.6,West,Credit Card,01-06-2025,3,1
+ORD10898,CUST1179,Brandon Williams,Home,Chair,1,254.98,254.98,West,UPI,17-02-2025,11,4
+ORD10899,CUST1674,Michael Allen,Sports,Football,1,1106.74,1106.74,North,Cash on Delivery,08-04-2025,14,4
+ORD10900,CUST1013,Heidi Davis,Home,Vacuum Cleaner,8,803.38,6427.04,West,Debit Card,10-07-2024,4,1
+ORD10901,CUST1602,Jason Huynh,Home,Mixer,5,348.07,1740.35,South,Credit Card,23-07-2025,7,1
+ORD10902,CUST1505,Jennifer Harper,Sports,Football,4,206.89,827.56,South,Debit Card,20-09-2025,12,3
+ORD10903,CUST1606,William Walker,Home,Chair,4,631.44,2525.76,North,UPI,08-08-2024,7,1
+ORD10904,CUST1749,Michael Baker,Sports,Dumbbells,2,502.46,1004.92,North,UPI,20-11-2025,6,3
+ORD10905,CUST1981,Brian Parsons,Clothing,T-Shirt,2,188.68,377.36,West,UPI,04-10-2025,4,4
+ORD10906,CUST1039,Hector Curtis,Home,Chair,7,32.74,229.18,West,UPI,24-01-2025,11,3
+ORD10907,CUST1232,Cheryl Brennan,Books,Comics,8,515.93,4127.44,East,UPI,13-07-2025,10,2
+ORD10908,CUST1158,Dawn Hunter,Home,Chair,3,355.33,1065.99,East,Debit Card,02-03-2025,6,5
+ORD10909,CUST1941,Vicki Farmer,Sports,Football,3,796.74,2390.22,South,Net Banking,15-07-2024,9,5
+ORD10910,CUST1200,Erika Olson,Clothing,Shoes,5,340.88,1704.4,West,Credit Card,23-07-2025,14,4
+ORD10911,CUST1831,Jesus Scott,Home,Chair,6,1481.29,8887.74,South,Cash on Delivery,29-04-2026,11,4
+ORD10912,CUST1937,Steven Walsh,Home,Lamp,3,1023.77,3071.31,South,Debit Card,13-09-2025,8,2
+ORD10913,CUST1754,Christopher Black,Sports,Cricket Bat,6,1081.37,6488.22,East,Net Banking,22-11-2025,4,5
+ORD10914,CUST1416,Katherine Hess,Sports,Cricket Bat,6,22.05,132.3,West,Credit Card,09-11-2025,1,2
+ORD10915,CUST1546,Justin Fernandez,Clothing,Jacket,6,1300.48,7802.88,East,Cash on Delivery,23-11-2025,13,2
+ORD10916,CUST1669,Elizabeth Schaefer,Sports,Yoga Mat,6,564.74,3388.44,West,Credit Card,10-05-2026,3,5
+ORD10917,CUST1051,Juan Roberts,Sports,Football,9,145.31,1307.79,West,Cash on Delivery,02-04-2026,10,1
+ORD10918,CUST1060,Thomas Daniel,Sports,Football,7,452.01,3164.07,South,UPI,23-10-2025,4,1
+ORD10919,CUST1796,Robin Garcia,Books,Comics,2,93,186,North,Credit Card,18-01-2025,7,2
+ORD10920,CUST1105,Harold Chavez,Clothing,Jeans,6,644.36,3866.16,South,Net Banking,11-12-2025,14,3
+ORD10921,CUST1691,Samantha Esparza,Home,Lamp,1,1000.84,1000.84,South,Debit Card,23-08-2024,13,4
+ORD10922,CUST1268,Courtney Joyce,Clothing,Shoes,7,1140.31,7982.17,North,Debit Card,17-05-2025,3,4
+ORD10923,CUST1255,Susan Thompson,Clothing,Jeans,1,259,259,East,Net Banking,19-02-2025,2,2
+ORD10924,CUST1904,Nicole Valencia,Electronics,Smart Watch,2,43.3,86.6,North,Cash on Delivery,10-09-2025,1,
+ORD10925,CUST1073,Karen Valdez,Books,Textbook,3,18.15,54.45,East,Debit Card,28-06-2025,3,3
+ORD10926,CUST1890,Shelby Watts,Books,Comics,10,1126.61,11266.1,South,Cash on Delivery,27-08-2025,1,3
+ORD10927,CUST1566,Taylor Kline,Sports,Yoga Mat,7,1094.05,7658.35,East,Credit Card,19-07-2025,5,5
+ORD10928,CUST1269,Jocelyn Lynch,Home,Lamp,10,1442.21,14422.1,,Debit Card,01-09-2025,12,2
+ORD10929,CUST1923,Katherine Palmer,Electronics,Smart Watch,10,678.64,6786.4,East,Credit Card,09-03-2026,11,4
+ORD10930,CUST1394,Bonnie Stevens,Books,Novel,8,1383.26,11066.08,North,Credit Card,20-05-2026,7,5
+ORD10931,CUST1848,Charles Guzman,Sports,Yoga Mat,10,661.21,6612.1,West,Net Banking,14-11-2024,10,2
+ORD10932,CUST1734,Stefanie Hall,Clothing,T-Shirt,10,365.89,3658.9,West,Credit Card,05-09-2024,14,2
+ORD10933,CUST1575,Bryan Taylor,Electronics,Smart Watch,3,848.05,2544.15,South,UPI,23-03-2026,4,5
+ORD10934,CUST1494,Stephen Austin,Books,Magazine,4,226.98,907.92,North,UPI,03-08-2024,13,4
+ORD10935,CUST1823,Tom Anderson,Electronics,Headphones,9,292.29,2630.61,North,Credit Card,21-07-2024,4,1
+ORD10936,CUST1843,Elizabeth Morris,Electronics,Smart Watch,4,559.93,2239.72,North,Net Banking,21-06-2025,7,3
+ORD10937,CUST1217,Douglas Rodgers,Electronics,Smart Watch,4,1487.62,5950.48,North,Debit Card,27-03-2026,4,2
+ORD10938,CUST1695,Charles Buchanan,Clothing,T-Shirt,10,153.88,1538.8,East,Cash on Delivery,09-11-2024,5,5
+ORD10939,CUST1104,Susan Phillips,Electronics,Smart Watch,4,158.18,632.72,East,Debit Card,14-01-2025,7,5
+ORD10940,CUST1588,Julia Lane,Clothing,Jeans,8,536.94,4295.52,South,UPI,22-01-2025,4,2
+ORD10941,CUST1375,Jason Bauer,Sports,Dumbbells,3,1367.7,4103.1,East,Debit Card,12-04-2025,4,5
+ORD10942,CUST1987,Kiara Hicks,Electronics,Smart Watch,7,741.63,5191.41,West,UPI,08-04-2025,5,4
+ORD10943,CUST1391,Jasmine Cervantes,Clothing,Shoes,2,895.05,1790.1,West,Cash on Delivery,03-03-2026,3,5
+ORD10944,CUST1303,Joyce Taylor,Electronics,Laptop,8,184.83,1478.64,South,Cash on Delivery,27-10-2025,5,1
+ORD10945,CUST1498,Bryan Collins,Electronics,Smartphone,8,830.16,6641.28,North,UPI,04-03-2026,5,4
+ORD10946,CUST1713,Cassandra Crosby,Sports,Cricket Bat,8,493.1,3944.8,North,Cash on Delivery,05-02-2025,10,3
+ORD10947,CUST1857,Michael Watson,Clothing,T-Shirt,2,27.05,54.1,East,Debit Card,03-09-2025,14,4
+ORD10948,CUST1421,Michael Romero,Electronics,Laptop,5,278.5,1392.5,East,Credit Card,17-03-2025,1,4
+ORD10949,CUST1449,Jennifer Cruz,Home,Chair,8,1166.29,9330.32,West,UPI,02-07-2024,13,3
+ORD10950,CUST1667,Elizabeth Smith,Sports,Cricket Bat,5,1481.56,7407.8,West,Net Banking,22-06-2025,3,5
+ORD10951,CUST1253,Suzanne Salazar,Clothing,Jeans,9,853.03,7677.27,East,Net Banking,03-09-2025,4,3
+ORD10952,CUST1011,Kimberly Rios,Electronics,Smartphone,3,1185.26,3555.78,West,Net Banking,23-12-2024,12,2
+ORD10953,CUST1490,Alexander White,Sports,Yoga Mat,3,965.5,2896.5,East,Cash on Delivery,31-12-2025,4,3
+ORD10954,CUST1530,James Schneider,Clothing,Jacket,6,1478.73,8872.38,West,Cash on Delivery,21-12-2024,6,1
+ORD10955,CUST1219,Tanya Douglas,Home,Lamp,3,269.82,809.46,West,Credit Card,01-01-2025,3,5
+ORD10956,CUST1023,Jessica Rodriguez,Books,Comics,2,82.38,164.76,West,Cash on Delivery,29-07-2025,13,4
+ORD10957,CUST1255,Eric Mcclain,Books,Novel,5,1006.22,5031.1,North,UPI,05-02-2026,5,5
+ORD10958,CUST1469,Jason Wright,Sports,Yoga Mat,2,1250.07,2500.14,East,UPI,25-12-2024,8,2
+ORD10959,CUST1875,Andrew Mills,Sports,Football,1,320.44,320.44,East,Credit Card,26-07-2024,13,2
+ORD10960,CUST1706,Reginald Warner,Sports,Yoga Mat,4,518.21,2072.84,East,Net Banking,01-10-2025,6,5
+ORD10961,CUST1679,Ashley Aguilar,Books,Comics,2,568.78,1137.56,East,Cash on Delivery,14-12-2025,3,2
+ORD10962,CUST1902,Natalie Hall,Books,Magazine,7,871.46,6100.22,South,Debit Card,16-06-2025,1,5
+ORD10963,CUST1453,John Torres,Clothing,Jeans,10,1415.65,14156.5,West,Cash on Delivery,24-05-2025,1,2
+ORD10964,CUST1857,Scott Williams,Sports,Dumbbells,7,110.84,775.88,North,Debit Card,10-10-2024,6,1
+ORD10965,CUST1945,Mrs. Cynthia Anderson,Sports,Dumbbells,8,1317.35,10538.8,South,Net Banking,04-10-2025,11,4
+ORD10966,CUST1168,Michelle Willis,Electronics,Smart Watch,8,17.79,142.32,West,Cash on Delivery,01-10-2025,7,2
+ORD10967,CUST1406,Rebecca Mcdaniel,Clothing,T-Shirt,2,1124.38,2248.76,West,Net Banking,30-09-2025,6,5
+ORD10968,CUST1843,Lori Mccarthy,Sports,Dumbbells,3,730.2,2190.6,South,Cash on Delivery,08-06-2024,7,1
+ORD10969,CUST1627,Duane Willis,Clothing,Jacket,1,522.2,522.2,South,Debit Card,03-04-2025,6,5
+ORD10970,CUST1631,Nathan Thomas,Electronics,Smart Watch,8,1396.1,11168.8,West,Debit Card,11-09-2025,13,5
+ORD10971,CUST1009,Anita Bender,Electronics,Headphones,1,878.05,878.05,East,Net Banking,28-08-2024,6,2
+ORD10972,CUST1917,Brandy Bright,Books,Novel,3,1311.16,3933.48,West,Debit Card,31-03-2025,7,3
+ORD10973,CUST1109,Regina Mcintyre,Clothing,Jeans,2,753.43,1506.86,West,UPI,10-02-2025,5,1
+ORD10974,CUST1554,Alicia Graham,Electronics,Smart Watch,1,676.58,676.58,South,Cash on Delivery,29-07-2025,13,4
+ORD10975,CUST1641,Phyllis Lane,Books,Textbook,7,1273.36,8913.52,North,UPI,05-08-2025,9,2
+ORD10976,CUST1243,Rachel Rios,Sports,Dumbbells,8,1377.34,11018.72,South,UPI,08-10-2025,14,3
+ORD10977,CUST1568,Charles Fuentes,Home,Mixer,10,732.37,7323.7,North,Net Banking,09-07-2024,2,1
+ORD10978,CUST1446,Katie Salinas,Clothing,Jacket,2,811.13,1622.26,West,UPI,24-08-2025,11,5
+ORD10979,CUST1363,Cody Alexander,Clothing,T-Shirt,2,78.93,157.86,West,Net Banking,04-01-2025,7,4
+ORD10980,CUST1945,Raymond Reed,Clothing,Shoes,2,348.13,696.26,South,Debit Card,16-01-2026,6,4
+ORD10981,CUST1431,Eric Sanchez,Clothing,T-Shirt,7,444.39,3110.73,South,UPI,15-07-2025,12,5
+ORD10982,CUST1993,Morgan Gutierrez,Books,Novel,2,1378.56,2757.12,West,Net Banking,20-09-2025,12,5
+ORD10983,CUST1114,Cory Brown,Electronics,Smartphone,7,1030.23,7211.61,South,Credit Card,07-08-2025,4,4
+ORD10984,CUST1724,Laura Villa,Home,Lamp,6,684.51,4107.06,North,Debit Card,21-12-2025,13,1
+ORD10985,CUST1756,Dillon Robinson,Home,Chair,1,391.96,391.96,West,Debit Card,18-06-2024,1,5
+ORD10986,CUST1972,Jennifer Maynard,Clothing,Jeans,4,545.86,2183.44,South,UPI,03-04-2025,9,1
+ORD10987,CUST1753,Jeremy Davis,Electronics,Laptop,3,1339.55,4018.65,North,Debit Card,07-08-2024,9,5
+ORD10988,CUST1662,Luke Brown,Clothing,Jeans,5,500.22,2501.1,North,Cash on Delivery,06-06-2024,8,4
+ORD10989,CUST1103,Paul Davis,Home,Vacuum Cleaner,7,1248.95,8742.65,East,Debit Card,13-11-2024,13,5
+ORD10990,CUST1251,Sherri Miranda,Sports,Cricket Bat,10,125.89,1258.9,North,UPI,24-11-2024,7,3
+ORD10991,CUST1305,Shannon Smith,Electronics,Headphones,4,1150.63,4602.52,West,Credit Card,12-12-2024,10,4
+ORD10992,CUST1739,Kimberly Dixon,Home,Chair,7,124.23,869.61,South,Net Banking,15-02-2026,3,2
+ORD10993,CUST1577,Cynthia Scott,Home,Chair,2,421.37,842.74,South,Debit Card,08-05-2025,13,2
+ORD10994,CUST1164,Jacob Miller,Clothing,T-Shirt,4,1018.06,4072.24,East,Credit Card,27-08-2024,5,1
+ORD10995,CUST1410,Leah Williams,Electronics,Smartphone,5,600.12,3000.6,North,Cash on Delivery,31-07-2024,11,5
+ORD10996,CUST1809,Ashley Lopez,Home,Vacuum Cleaner,8,915.07,7320.56,East,Debit Card,07-03-2025,9,1
+ORD10997,CUST1933,Jessica Patel,Home,Lamp,6,1099.58,6597.48,West,UPI,01-09-2025,11,2
+ORD10998,CUST1848,Matthew Cruz,Sports,Dumbbells,9,59.13,532.17,West,Cash on Delivery,17-09-2024,13,2
+ORD10999,CUST1091,Ruth Hayes,Clothing,Jacket,4,1319.44,5277.76,East,Debit Card,27-05-2025,4,3
+ORD10521,CUST1172,Tanya Thomas,Sports,Cricket Bat,5,1077.69,5388.45,East,UPI,03-11-2025,14,1
+ORD10737,CUST1399,Robert Barron,Home,Vacuum Cleaner,2,1008.51,2017.02,West,Net Banking,15-05-2025,3,2
+ORD10740,CUST1522,Larry Park,Electronics,Smart Watch,7,1039.64,7277.48,North,Debit Card,26-05-2026,13,1
+ORD10660,CUST1371,Jody Ware,Clothing,T-Shirt,7,726.74,5087.18,East,UPI,23-07-2024,8,1
+ORD10411,CUST1515,Andrew Brown,Books,Novel,5,487.12,2435.6,North,Debit Card,23-06-2024,2,1
+ORD10678,CUST1475,Christopher Martinez,Electronics,Smart Watch,2,304.6,609.2,West,UPI,28-01-2025,6,4
+ORD10626,CUST1437,Nicholas Mcbride,Home,Chair,4,47.14,188.56,West,UPI,27-08-2025,9,3
+ORD10513,CUST1437,Gregory Mendez,Books,Magazine,10,764.34,7643.4,West,Cash on Delivery,14-04-2026,13,4
+ORD10859,CUST1155,George Miller,Clothing,T-Shirt,1,1497.11,1497.11,North,Credit Card,18-03-2026,6,1
+ORD10136,CUST1599,Margaret Conner,Electronics,Smartphone,2,439.42,878.84,North,Cash on Delivery,23-06-2025,2,1
+ORD10811,CUST1783,Mr. John Tanner,Clothing,Shoes,1,483.93,483.93,West,UPI,11-01-2026,11,1
+ORD10076,CUST1629,Kevin Church,Clothing,Shoes,9,1493.03,13437.27,West,Cash on Delivery,20-08-2024,1,2
+ORD10636,CUST1339,Sarah Roberts,Books,Textbook,1,1005.17,1005.17,East,Credit Card,13-12-2025,4,3
+ORD10973,CUST1109,Regina Mcintyre,Clothing,Jeans,2,753.43,1506.86,West,UPI,10-02-2025,5,1
+ORD10938,CUST1695,Charles Buchanan,Clothing,T-Shirt,10,153.88,1538.8,East,Cash on Delivery,09-11-2024,5,5
+ORD10899,CUST1674,Michael Allen,Sports,Football,1,1106.74,1106.74,North,Cash on Delivery,08-04-2025,14,4
+ORD10280,CUST1925,Sheila Smith,Home,Mixer,5,103.5,517.5,West,Debit Card,28-05-2025,10,1
+ORD10883,CUST1550,Emily Galvan,Clothing,Shoes,8,54.01,432.08,West,UPI,09-09-2025,4,2
+ORD10761,CUST1308,Lauren Hall,Home,Lamp,4,733.84,2935.36,North,Debit Card,01-11-2025,8,1
+ORD10319,CUST1231,Lisa Jimenez,Electronics,Smart Watch,9,489.99,4409.91,East,Debit Card,27-01-2025,6,5
